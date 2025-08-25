@@ -1,0 +1,419 @@
+productId,name,cleanName,categoryId,groupId,modifiedOn,imageCount,lowPrice,avgPrice,highPrice,marketPrice,directLowPrice,subTypeName,extNumber,extRarity,extCardType
+242434,Evolving Skies Elite Trainer Box [Flareon/Jolteon/Umbreon/Leafeon],Evolving Skies Elite Trainer Box Flareon Jolteon Umbreon Leafeon,3,2848,2021-08-27 4:03:10,3,340,450,9999.99,347.13,,Normal,,,
+242435,Evolving Skies 3 Pack Blister [Eiscue],Evolving Skies 3 Pack Blister Eiscue,3,2848,2021-08-27 4:03:10,1,145,171,197,113.44,,Normal,,,
+242436,Evolving Skies Booster Box,Evolving Skies Booster Box,3,2848,2021-08-27 4:03:10,1,2410,3000,10000,2269.52,,Normal,,,
+242437,Evolving Skies Premium Checklane Blister [Luxray],Evolving Skies Premium Checklane Blister Luxray,3,2848,2021-08-27 4:03:10,1,,,,,,,,,
+242438,Evolving Skies Sleeved Booster Pack,Evolving Skies Sleeved Booster Pack,3,2848,2021-08-27 4:03:10,1,50,54.95,99.99,45.26,,Normal,,,
+242443,Evolving Skies Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon],Evolving Skies Elite Trainer Box Glaceon Vaporeon Sylveon Espeon,3,2848,2021-08-27 4:03:10,2,357.99,490,9999.99,340.1,,Normal,,,
+242444,Evolving Skies 3 Pack Blister [Umbreon],Evolving Skies 3 Pack Blister Umbreon,3,2848,2021-08-27 4:03:10,1,160,194.99,200,134.95,,Normal,,,
+242445,Evolving Skies Premium Checklane Blister [Emboar],Evolving Skies Premium Checklane Blister Emboar,3,2848,2021-08-27 4:03:10,1,,,,,,,,,
+242447,Evolving Skies Single Pack Blister [Eevee],Evolving Skies Single Pack Blister Eevee,3,2848,2021-08-27 4:03:10,1,69.95,85.94,89.99,47.11,,Normal,,,
+242448,Evolving Skies Single Pack Blister [Galarian Slowpoke],Evolving Skies Single Pack Blister Galarian Slowpoke,3,2848,2021-08-27 4:03:10,1,65,70,99.99,38.07,,Normal,,,
+242449,Evolving Skies Build & Battle Box,Evolving Skies Build and Battle Box,3,2848,2021-08-27 4:03:10,1,234.99,262.5,299.95,175.46,,Normal,,,
+242450,Evolving Skies Build & Battle Box Display,Evolving Skies Build and Battle Box Display,3,2848,2023-05-03 19:15:48,1,3599.95,3599.95,3599.95,1698.95,,Normal,,,
+243425,Evolving Skies Build & Battle Stadium,Evolving Skies Build and Battle Stadium,3,2848,2025-02-05 19:47:41,1,500,562.5,899.99,405.96,,Normal,,,
+243721,Evolving Skies Elite Trainer Box [Set of 2],Evolving Skies Elite Trainer Box Set of 2,3,2848,2021-08-27 4:03:10,1,973,1099.97,2999.99,637.22,,Normal,,,
+243722,Evolving Skies Elite Trainer Box Case,Evolving Skies Elite Trainer Box Case,3,2848,2021-08-27 4:03:10,1,4999.98,4999.99,9999.99,3473.74,,Normal,,,
+244337,Evolving Skies Booster Pack,Evolving Skies Booster Pack,3,2848,2021-08-27 4:03:10,1,25.99,35,99.99,29.85,,Normal,,,
+245352,Evolving Skies Pokemon Center Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive),Evolving Skies Pokemon Center Elite Trainer Box Glaceon Vaporeon Sylveon Espeon Exclusive,3,2848,2024-01-25 14:55:25,2,800,894,999.99,635.24,,Normal,,,
+245376,Evolving Skies Pokemon Center Elite Trainer Box [Jolteon/Flareon/Umbreon/Leafeon] (Exclusive),Evolving Skies Pokemon Center Elite Trainer Box Jolteon Flareon Umbreon Leafeon Exclusive,3,2848,2021-08-27 4:03:10,2,780,899.99,999.99,650.41,,Normal,,,
+245855,Evolving Skies Pokemon Center Elite Trainer Box [Set of 2] (Exclusive),Evolving Skies Pokemon Center Elite Trainer Box Set of 2 Exclusive,3,2848,2021-08-27 4:03:10,1,2450,13725,24999.99,1348.45,,Normal,,,
+245877,Mewtwo V-UNION Special Collection,Mewtwo V UNION Special Collection,3,2848,2022-02-01 23:15:15,1,150,200,799.98,124.4,,Normal,,,
+245878,Greninja V-UNION Special Collection,Greninja V UNION Special Collection,3,2848,2022-02-01 23:14:25,1,95,119.99,349.99,91.14,,Normal,,,
+245879,Zacian V-UNION Special Collection,Zacian V UNION Special Collection,3,2848,2022-02-01 23:15:24,1,75,90,359.99,73.62,,Normal,,,
+245880,V-UNION Special Collection [Set of 3],V UNION Special Collection Set of 3,3,2848,2022-02-01 23:15:07,1,319.99,369.93,399.99,282.58,,Normal,,,
+246274,Evolving Skies Sleeved Booster Pack Bundle [Set of 8],Evolving Skies Sleeved Booster Pack Bundle Set of 8,3,2848,2022-03-09 20:08:19,1,445,475,500,252.5,,Normal,,,
+246684,Espeon V,Espeon V,3,2848,2024-10-03 21:11:19,1,1,1.94,175,1.65,1.55,Holofoil,064/203,Ultra Rare,Psychic
+246685,Leafeon V,Leafeon V,3,2848,2024-11-22 13:20:29,1,0.95,2.09,89,1.63,1.63,Holofoil,007/203,Ultra Rare,Grass
+246686,Leafeon V (Full Art),Leafeon V Full Art,3,2848,2024-11-22 13:22:44,1,11.94,14.99,39.99,11.94,15.99,Holofoil,166/203,Ultra Rare,Grass
+246687,Espeon V (Full Art),Espeon V Full Art,3,2848,2024-01-24 13:58:56,1,13.97,19.62,55.95,15.78,17.99,Holofoil,179/203,Ultra Rare,Psychic
+246688,Leafeon V (Alternate Full Art),Leafeon V Alternate Full Art,3,2848,2023-02-02 20:06:12,1,96.1,123.65,249.99,103.97,105,Holofoil,167/203,Ultra Rare,Grass
+246689,Espeon V (Alternate Full Art),Espeon V Alternate Full Art,3,2848,2025-01-23 21:15:55,1,128.7,160,299.99,131.64,129.99,Holofoil,180/203,Ultra Rare,Psychic
+246690,Espeon VMAX,Espeon VMAX,3,2848,2023-12-05 10:28:39,1,8,9.99,500,8.92,9.02,Holofoil,065/203,Ultra Rare,Psychic
+246691,Leafeon VMAX,Leafeon VMAX,3,2848,2022-01-25 10:05:18,1,3.74,5.99,50,4.78,5,Holofoil,008/203,Ultra Rare,Grass
+246692,Golurk V,Golurk V,3,2848,2024-03-04 21:19:01,1,0.31,0.99,89,0.83,0.61,Holofoil,070/203,Ultra Rare,Psychic
+246693,Leafeon VMAX (Secret),Leafeon VMAX Secret,3,2848,2021-10-04 14:24:35,1,26.79,34.75,100,27.09,29.69,Holofoil,204/203,Secret Rare,Grass
+246694,Golurk V (Full Art),Golurk V Full Art,3,2848,2022-03-15 19:36:29,1,2.2,3.5,19.99,3.18,3.18,Holofoil,181/203,Ultra Rare,Psychic
+246695,Golurk V (Alternate Full Art),Golurk V Alternate Full Art,3,2848,2025-03-17 12:47:58,1,19.9,24.21,99.98,20.43,22,Holofoil,182/203,Ultra Rare,Psychic
+246696,Leafeon VMAX (Alternate Art Secret),Leafeon VMAX Alternate Art Secret,3,2848,2022-09-22 9:53:14,1,309.95,399.99,849.99,375.79,321.52,Holofoil,205/203,Secret Rare,Grass
+246697,Sylveon V,Sylveon V,3,2848,2023-02-10 17:31:18,1,1,3,99.99,2.62,2.19,Holofoil,074/203,Ultra Rare,Psychic
+246698,Sylveon V (Full Art),Sylveon V Full Art,3,2848,2021-08-27 4:03:10,1,18,25.67,100,21.47,23.99,Holofoil,183/203,Ultra Rare,Psychic
+246699,Trevenant V,Trevenant V,3,2848,2023-07-15 13:12:05,1,0.35,0.99,89,0.81,0.75,Holofoil,013/203,Ultra Rare,Grass
+246700,Sylveon V (Alternate Full Art),Sylveon V Alternate Full Art,3,2848,2023-01-09 5:55:40,1,112,139.99,280,113.26,118.16,Holofoil,184/203,Ultra Rare,Psychic
+246701,Sylveon VMAX,Sylveon VMAX,3,2848,2024-10-03 21:12:46,1,7.7,10.87,50,8.57,8.91,Holofoil,075/203,Ultra Rare,Psychic
+246702,Sylveon VMAX (Secret),Sylveon VMAX Secret,3,2848,2021-08-27 4:03:10,1,36.67,47.36,99.99,36.89,40,Holofoil,211/203,Secret Rare,Psychic
+246703,Trevenant V (Full Art),Trevenant V Full Art,3,2848,2024-08-01 13:16:35,1,1.5,2.46,89,2.36,2.76,Holofoil,168/203,Ultra Rare,Grass
+246704,Sylveon VMAX (Alternate Art Secret),Sylveon VMAX Alternate Art Secret,3,2848,2021-08-27 4:03:10,1,256.4,342.94,1000,273.38,304.38,Holofoil,212/203,Secret Rare,Psychic
+246705,Medicham V,Medicham V,3,2848,2024-10-18 5:41:25,1,0.39,0.99,89,0.74,0.59,Holofoil,083/203,Ultra Rare,Fighting
+246706,Medicham V (Full Art),Medicham V Full Art,3,2848,2021-08-27 4:03:10,1,1.44,2.15,89,1.81,1.99,Holofoil,185/203,Ultra Rare,Fighting
+246707,Medicham V (Alternate Full Art),Medicham V Alternate Full Art,3,2848,2024-11-13 20:54:53,1,13.39,15.55,49.99,14.55,14.96,Holofoil,186/203,Ultra Rare,Fighting
+246708,Trevenant VMAX,Trevenant VMAX,3,2848,2022-03-28 16:22:23,1,0.99,2.18,89,1.54,1.6,Holofoil,014/203,Ultra Rare,Grass
+246709,Trevenant VMAX (Secret),Trevenant VMAX Secret,3,2848,2021-08-27 4:03:10,1,6.25,7.94,89.25,6.92,7.19,Holofoil,206/203,Secret Rare,Grass
+246710,Lycanroc V,Lycanroc V,3,2848,2025-02-07 20:10:24,1,0.25,0.95,89,0.78,0.89,Holofoil,091/203,Ultra Rare,Fighting
+246711,Lycanroc V (Full Art),Lycanroc V Full Art,3,2848,2021-08-27 4:03:10,1,2,3.21,14.99,2.97,4,Holofoil,187/203,Ultra Rare,Fighting
+246712,Flareon VMAX,Flareon VMAX,3,2848,2024-08-28 19:06:51,1,1.22,7.07,35,5.85,6,Holofoil,018/203,Ultra Rare,Fire
+246713,Lycanroc VMAX,Lycanroc VMAX,3,2848,2022-05-09 5:04:12,1,1,2.12,89,1.67,1.49,Holofoil,092/203,Ultra Rare,Fighting
+246714,Lycanroc VMAX (Secret),Lycanroc VMAX Secret,3,2848,2024-08-15 14:11:27,1,6.49,7.82,89,6.79,7.98,Holofoil,213/203,Secret Rare,Fighting
+246715,Volcarona V,Volcarona V,3,2848,2025-02-07 20:10:24,1,0.3,0.9,89,0.73,0.42,Holofoil,021/203,Ultra Rare,Fire
+246716,Umbreon V,Umbreon V,3,2848,2023-06-09 14:33:02,1,2.84,3.99,89,3.1,3.08,Holofoil,094/203,Ultra Rare,Darkness
+246717,Umbreon V (Full Art),Umbreon V Full Art,3,2848,2021-08-27 4:03:10,1,39.41,58.61,114.99,47.83,58.61,Holofoil,188/203,Ultra Rare,Darkness
+246718,Volcarona V (Full Art),Volcarona V Full Art,3,2848,2024-08-28 19:05:17,1,2.9,4.49,89,4.31,4.34,Holofoil,170/203,Ultra Rare,Fire
+246719,Umbreon V (Alternate Full Art),Umbreon V Alternate Full Art,3,2848,2022-05-10 20:53:03,1,217.17,296.17,499.99,227.64,244.89,Holofoil,189/203,Ultra Rare,Darkness
+246720,Umbreon VMAX,Umbreon VMAX,3,2848,2025-01-10 12:33:30,1,14.73,17.91,89,15.03,14.73,Holofoil,095/203,Ultra Rare,Darkness
+246721,Flareon V (Full Art),Flareon V Full Art,3,2848,2024-08-28 19:05:08,1,12,14.31,42.69,12.9,12.78,Holofoil,169/203,Ultra Rare,Fire
+246722,Umbreon VMAX (Secret),Umbreon VMAX Secret,3,2848,2024-01-18 12:57:21,1,49,55,179,49.57,50.28,Holofoil,214/203,Secret Rare,Darkness
+246723,Umbreon VMAX (Alternate Art Secret),Umbreon VMAX Alternate Art Secret,3,2848,2025-02-25 18:48:26,1,1099.99,1525,2999.99,1343.82,1298.77,Holofoil,215/203,Secret Rare,Darkness
+246724,Gyarados VMAX,Gyarados VMAX,3,2848,2024-08-09 18:49:10,1,4.99,6.52,500,5.86,6.25,Holofoil,029/203,Ultra Rare,Water
+246725,Rayquaza V,Rayquaza V,3,2848,2025-04-03 11:59:18,1,0.5,1.02,89,1.11,0.98,Holofoil,110/203,Ultra Rare,Dragon
+246726,Gyarados VMAX (Secret),Gyarados VMAX Secret,3,2848,2024-08-09 19:00:25,1,25,33.99,179,30.19,32.99,Holofoil,207/203,Secret Rare,Water
+246727,Rayquaza V (Full Art),Rayquaza V Full Art,3,2848,2021-10-19 14:43:21,1,16.27,29.98,90,23.9,28.45,Holofoil,193/203,Ultra Rare,Dragon
+246728,Rayquaza V (Alternate Full Art),Rayquaza V Alternate Full Art,3,2848,2023-02-20 11:47:54,1,1,241.22,1000,151.82,249.74,Holofoil,194/203,Ultra Rare,Dragon
+246729,Gyarados V,Gyarados V,3,2848,2024-08-09 18:48:42,1,0.67,1.5,89,1.39,1.15,Holofoil,028/203,Ultra Rare,Water
+246730,Rayquaza VMAX,Rayquaza VMAX,3,2848,2024-05-06 9:31:54,1,5.18,6.99,89,6.22,5.31,Holofoil,111/203,Ultra Rare,Dragon
+246731,Rayquaza VMAX (Secret),Rayquaza VMAX Secret,3,2848,2022-04-27 13:13:00,1,38,52.49,175.11,43.76,44.99,Holofoil,217/203,Secret Rare,Dragon
+246732,Gyarados V (Full Art),Gyarados V Full Art,3,2848,2024-08-09 18:59:26,1,7.5,9.95,29.99,8.84,9.94,Holofoil,171/203,Ultra Rare,Water
+246733,Rayquaza VMAX (Alternate Art Secret),Rayquaza VMAX Alternate Art Secret,3,2848,2024-01-18 12:49:16,1,560,749.99,1499.99,654.04,749.98,Holofoil,218/203,Secret Rare,Dragon
+246734,Vaporeon V (Full Art),Vaporeon V Full Art,3,2848,2024-08-09 18:45:29,1,10,18,100,14.6,13.75,Holofoil,172/203,Ultra Rare,Water
+246735,Garbodor V,Garbodor V,3,2848,2021-08-27 4:03:10,1,0.41,0.99,89,0.78,0.78,Holofoil,100/203,Ultra Rare,Darkness
+246736,Vaporeon VMAX,Vaporeon VMAX,3,2848,2024-08-31 16:54:16,1,3,7.18,29.99,5.88,5.99,Holofoil,030/203,Ultra Rare,Water
+246737,Garbodor V (Full Art),Garbodor V Full Art,3,2848,2022-06-13 10:38:46,1,2.14,2.84,12.95,2.51,2.21,Holofoil,190/203,Ultra Rare,Darkness
+246738,Garbodor VMAX,Garbodor VMAX,3,2848,2023-05-20 8:35:54,1,1.01,2.09,89,1.67,1.7,Holofoil,101/203,Ultra Rare,Darkness
+246739,Suicune V,Suicune V,3,2848,2023-11-16 20:59:54,1,0.64,1.2,89,1.08,0.99,Holofoil,031/203,Ultra Rare,Water
+246740,Garbodor VMAX (Secret),Garbodor VMAX Secret,3,2848,2022-12-31 14:26:06,1,6,8,24.99,6.89,7.48,Holofoil,216/203,Secret Rare,Darkness
+246741,Suicune V (Full Art),Suicune V Full Art,3,2848,2021-08-31 12:46:08,1,4.25,5.77,30,5.61,5.02,Holofoil,173/203,Ultra Rare,Water
+246742,Noivern V,Noivern V,3,2848,2024-10-15 15:47:23,1,0.37,0.93,89,0.79,0.72,Holofoil,117/203,Ultra Rare,Dragon
+246743,Noivern V (Full Art),Noivern V Full Art,3,2848,2023-12-01 14:00:42,1,1.95,3.49,49.99,3.32,3.99,Holofoil,195/203,Ultra Rare,Dragon
+246744,Glaceon V,Glaceon V,3,2848,2024-11-25 15:53:37,1,0.95,2.18,89,1.76,1.8,Holofoil,040/203,Ultra Rare,Water
+246745,Noivern V (Alternate Full Art),Noivern V Alternate Full Art,3,2848,2025-01-09 19:37:54,1,38,56.84,125,44.09,42.03,Holofoil,196/203,Ultra Rare,Dragon
+246746,Glaceon V (Full Art),Glaceon V Full Art,3,2848,2024-10-18 19:19:13,1,14.3,17.25,100,15.09,14.3,Holofoil,174/203,Ultra Rare,Water
+246747,Glaceon V (Alternate Full Art),Glaceon V Alternate Full Art,3,2848,2024-04-23 17:57:44,1,99.99,122.5,249.99,102.55,105,Holofoil,175/203,Ultra Rare,Water
+246748,Duraludon V,Duraludon V,3,2848,2025-02-07 20:10:24,1,0.25,0.99,89,0.76,0.83,Holofoil,122/203,Ultra Rare,Dragon
+246749,Duraludon V (Full Art),Duraludon V Full Art,3,2848,2021-08-27 4:03:10,1,1,2,89,1.81,1.46,Holofoil,197/203,Ultra Rare,Dragon
+246750,Duraludon V (Alternate Full Art),Duraludon V Alternate Full Art,3,2848,2022-10-31 4:38:31,1,13.8,17.02,49.99,15.07,15.88,Holofoil,198/203,Ultra Rare,Dragon
+246751,Duraludon VMAX,Duraludon VMAX,3,2848,2024-11-08 12:42:01,1,0.93,2.32,89,1.51,1.42,Holofoil,123/203,Ultra Rare,Dragon
+246752,Duraludon VMAX (Secret),Duraludon VMAX Secret,3,2848,2022-03-27 10:39:00,1,5,7.97,29.99,6.88,7.01,Holofoil,219/203,Secret Rare,Dragon
+246753,Glaceon VMAX,Glaceon VMAX,3,2848,2025-02-13 16:10:09,1,4,5.99,89,4.81,4.54,Holofoil,041/203,Ultra Rare,Water
+246754,Duraludon VMAX (Alternate Art Secret),Duraludon VMAX Alternate Art Secret,3,2848,2024-04-11 4:28:08,1,15.98,19.99,60,17.34,17.89,Holofoil,220/203,Secret Rare,Dragon
+246755,Glaceon VMAX (Secret),Glaceon VMAX Secret,3,2848,2023-08-30 16:08:31,1,25.82,30.65,59.99,25.11,26.61,Holofoil,208/203,Secret Rare,Water
+246756,Glaceon VMAX (Alternate Art Secret),Glaceon VMAX Alternate Art Secret,3,2848,2024-06-06 11:47:56,1,248.5,288.91,799.99,266.4,270.99,Holofoil,209/203,Secret Rare,Water
+246757,Dragonite V (Full Art),Dragonite V Full Art,3,2848,2023-11-01 15:29:30,1,13.86,17.95,89,14.67,14.14,Holofoil,191/203,Ultra Rare,Dragon
+246758,Dragonite V (Alternate Full Art),Dragonite V Alternate Full Art,3,2848,2023-10-16 9:39:58,1,242.99,349.99,1567,255.77,349.93,Holofoil,192/203,Ultra Rare,Dragon
+246759,Arctovish V,Arctovish V,3,2848,2024-08-09 18:45:00,1,0.44,0.99,89,0.86,0.54,Holofoil,048/203,Ultra Rare,Water
+246760,Jolteon VMAX,Jolteon VMAX,3,2848,2024-11-22 13:23:39,1,4.85,6.99,79.99,5.31,6.03,Holofoil,051/203,Ultra Rare,Lightning
+246761,Arctovish V (Full Art),Arctovish V Full Art,3,2848,2024-08-09 18:52:34,1,1.24,2.04,19.99,1.94,2.54,Holofoil,176/203,Ultra Rare,Water
+246762,Dracozolt V,Dracozolt V,3,2848,2025-02-07 20:10:24,1,0.15,0.96,89,0.86,0.69,Holofoil,058/203,Ultra Rare,Lightning
+246763,Jolteon V (Full Art),Jolteon V Full Art,3,2848,2024-09-27 13:10:52,1,13.99,16.86,49.99,15.11,15.99,Holofoil,177/203,Ultra Rare,Lightning
+246764,Dracozolt V (Full Art),Dracozolt V Full Art,3,2848,2021-12-19 21:29:54,1,1.44,2.5,10.99,1.87,2.75,Holofoil,178/203,Ultra Rare,Lightning
+246765,Dracozolt VMAX,Dracozolt VMAX,3,2848,2024-03-27 19:06:55,1,1,2.21,29.99,1.76,1.35,Holofoil,059/203,Ultra Rare,Lightning
+246766,Aroma Lady,Aroma Lady,3,2848,2025-02-07 20:10:24,1,0.03,0.18,4.95,0.15,,Reverse Holofoil,141/203,Uncommon,Supporter
+246766,Aroma Lady,Aroma Lady,3,2848,2025-02-07 20:10:24,1,0.01,0.1,6.98,0.07,,Normal,141/203,Uncommon,Supporter
+246767,Boost Shake,Boost Shake,3,2848,2025-02-07 20:10:24,1,0.01,0.11,5.01,0.07,,Normal,142/203,Uncommon,Item
+246767,Boost Shake,Boost Shake,3,2848,2025-02-07 20:10:24,1,0.02,0.2,4.95,0.16,,Reverse Holofoil,142/203,Uncommon,Item
+246768,Copycat,Copycat,3,2848,2025-02-07 20:10:24,1,0.01,0.1,19.95,0.08,,Normal,143/203,Uncommon,Supporter
+246768,Copycat,Copycat,3,2848,2025-02-07 20:10:24,1,0.03,0.2,5.04,0.16,0.08,Reverse Holofoil,143/203,Uncommon,Supporter
+246769,Crystal Cave,Crystal Cave,3,2848,2023-03-15 17:30:52,1,0.01,0.14,5.01,0.1,0.03,Normal,144/203,Uncommon,Stadium
+246769,Crystal Cave,Crystal Cave,3,2848,2023-03-15 17:30:52,1,0.05,0.23,5.05,0.22,0.17,Reverse Holofoil,144/203,Uncommon,Stadium
+246770,Digging Gloves,Digging Gloves,3,2848,2025-02-07 20:10:24,1,0.01,0.1,4.95,0.05,,Normal,145/203,Uncommon,Tool
+246770,Digging Gloves,Digging Gloves,3,2848,2025-02-07 20:10:24,1,0.02,0.19,4.95,0.11,0.06,Reverse Holofoil,145/203,Uncommon,Tool
+246771,Dream Ball,Dream Ball,3,2848,2025-02-07 20:10:25,1,0.01,0.12,4.95,0.09,,Normal,146/203,Uncommon,Item
+246771,Dream Ball,Dream Ball,3,2848,2025-02-07 20:10:25,1,0.04,0.2,4.95,0.13,,Reverse Holofoil,146/203,Uncommon,Item
+246772,Elemental Badge,Elemental Badge,3,2848,2025-02-07 20:10:25,1,0.01,0.1,4.95,0.06,,Normal,147/203,Uncommon,Tool
+246772,Elemental Badge,Elemental Badge,3,2848,2025-02-07 20:10:25,1,0.04,0.19,89,0.14,0.05,Reverse Holofoil,147/203,Uncommon,Tool
+246773,Full Face Guard,Full Face Guard,3,2848,2025-02-07 20:10:25,1,0.05,0.2,4.95,0.14,0.1,Reverse Holofoil,148/203,Uncommon,Tool
+246773,Full Face Guard,Full Face Guard,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.04,,Normal,148/203,Uncommon,Tool
+246774,Gordie,Gordie,3,2848,2025-02-07 20:10:25,1,0.01,0.1,5.01,0.05,0.04,Normal,149/203,Uncommon,Supporter
+246774,Gordie,Gordie,3,2848,2025-02-07 20:10:25,1,0.03,0.16,5.03,0.15,0.1,Reverse Holofoil,149/203,Uncommon,Supporter
+246775,Lucky Ice Pop,Lucky Ice Pop,3,2848,2025-02-07 20:10:25,1,0.04,0.2,89,0.17,,Reverse Holofoil,150/203,Uncommon,Item
+246775,Lucky Ice Pop,Lucky Ice Pop,3,2848,2025-02-07 20:10:25,1,0.01,0.12,19.95,0.09,0.02,Normal,150/203,Uncommon,Item
+246776,Moon & Sun Badge,Moon and Sun Badge,3,2848,2025-02-07 20:10:25,1,0.04,0.17,4.95,0.13,0.05,Reverse Holofoil,151/203,Uncommon,Tool
+246776,Moon & Sun Badge,Moon and Sun Badge,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.06,,Normal,151/203,Uncommon,Tool
+246777,Raihan,Raihan,3,2848,2024-10-15 15:47:23,1,0.01,0.15,5.04,0.11,0.06,Normal,152/203,Uncommon,Supporter
+246777,Raihan,Raihan,3,2848,2024-10-15 15:47:23,1,0.05,0.25,10.39,0.29,0.15,Reverse Holofoil,152/203,Uncommon,Supporter
+246778,Rapid Strike Scroll of the Flying Dragon,Rapid Strike Scroll of the Flying Dragon,3,2848,2021-08-27 4:03:10,1,0.05,0.18,89,0.12,0.06,Reverse Holofoil,153/203,Uncommon,Tool
+246778,Rapid Strike Scroll of the Flying Dragon,Rapid Strike Scroll of the Flying Dragon,3,2848,2021-08-27 4:03:10,1,0.01,0.1,19.95,0.04,0.02,Normal,153/203,Uncommon,Tool
+246779,Single Strike Scroll of the Fanged Dragon,Single Strike Scroll of the Fanged Dragon,3,2848,2025-04-30 17:59:30,1,0.03,0.18,5.03,0.11,,Reverse Holofoil,158/203,Uncommon,Tool
+246779,Single Strike Scroll of the Fanged Dragon,Single Strike Scroll of the Fanged Dragon,3,2848,2025-04-30 17:59:30,1,0.01,0.1,5.01,0.04,0.02,Normal,158/203,Uncommon,Tool
+246780,Rescue Carrier,Rescue Carrier,3,2848,2025-02-07 20:10:25,1,0.04,0.2,4.95,0.16,0.07,Reverse Holofoil,154/203,Uncommon,Item
+246780,Rescue Carrier,Rescue Carrier,3,2848,2025-02-07 20:10:25,1,0.01,0.12,5,0.07,,Normal,154/203,Uncommon,Item
+246781,Ribbon Badge,Ribbon Badge,3,2848,2025-02-07 20:10:25,1,0.02,0.2,10,0.14,0.09,Reverse Holofoil,155/203,Uncommon,Tool
+246781,Ribbon Badge,Ribbon Badge,3,2848,2025-02-07 20:10:25,1,0.01,0.1,4.95,0.08,,Normal,155/203,Uncommon,Tool
+246782,Rubber Gloves,Rubber Gloves,3,2848,2021-08-27 4:03:10,1,0.01,0.1,5.01,0.06,0.02,Normal,156/203,Uncommon,Tool
+246782,Rubber Gloves,Rubber Gloves,3,2848,2021-08-27 4:03:10,1,0.03,0.15,4.95,0.1,0.07,Reverse Holofoil,156/203,Uncommon,Tool
+246783,Snow Leaf Badge,Snow Leaf Badge,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.07,0.02,Normal,159/203,Uncommon,Tool
+246783,Snow Leaf Badge,Snow Leaf Badge,3,2848,2025-02-07 20:10:25,1,0.03,0.2,4.95,0.12,0.08,Reverse Holofoil,159/203,Uncommon,Tool
+246784,Spirit Mask,Spirit Mask,3,2848,2025-02-07 20:10:25,1,0.01,0.1,4.95,0.06,,Normal,160/203,Uncommon,Tool
+246784,Spirit Mask,Spirit Mask,3,2848,2025-02-07 20:10:25,1,0.01,0.2,89,0.11,0.12,Reverse Holofoil,160/203,Uncommon,Tool
+246785,Shopping Center,Shopping Center,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.06,,Normal,157/203,Uncommon,Stadium
+246785,Shopping Center,Shopping Center,3,2848,2025-02-07 20:10:25,1,0.02,0.16,89,0.13,0.07,Reverse Holofoil,157/203,Uncommon,Stadium
+246786,Stormy Mountains,Stormy Mountains,3,2848,2025-02-07 20:10:25,1,0.01,0.15,5.03,0.09,0.04,Normal,161/203,Uncommon,Stadium
+246786,Stormy Mountains,Stormy Mountains,3,2848,2025-02-07 20:10:25,1,0.03,0.23,89,0.19,0.2,Reverse Holofoil,161/203,Uncommon,Stadium
+246787,Switching Cups,Switching Cups,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.06,,Normal,162/203,Uncommon,Item
+246787,Switching Cups,Switching Cups,3,2848,2025-02-07 20:10:25,1,0.01,0.16,4.95,0.13,,Reverse Holofoil,162/203,Uncommon,Item
+246788,Toy Catcher,Toy Catcher,3,2848,2025-02-07 20:10:25,1,0.01,0.1,4.95,0.04,,Normal,163/203,Uncommon,Item
+246788,Toy Catcher,Toy Catcher,3,2848,2025-02-07 20:10:25,1,0.04,0.18,4.95,0.13,,Reverse Holofoil,163/203,Uncommon,Item
+246789,Zinnia's Resolve,Zinnias Resolve,3,2848,2025-02-07 20:10:25,1,0.01,0.11,4.95,0.07,,Normal,164/203,Uncommon,Supporter
+246789,Zinnia's Resolve,Zinnias Resolve,3,2848,2025-02-07 20:10:25,1,0.05,0.2,4.95,0.14,0.15,Reverse Holofoil,164/203,Uncommon,Supporter
+246790,Treasure Energy,Treasure Energy,3,2848,2025-02-07 20:10:25,1,0.05,0.2,4.95,0.16,,Reverse Holofoil,165/203,Uncommon,Special Energy
+246790,Treasure Energy,Treasure Energy,3,2848,2025-02-07 20:10:25,1,0.01,0.1,5.01,0.1,0.03,Normal,165/203,Uncommon,Special Energy
+246791,Aroma Lady (Full Art),Aroma Lady Full Art,3,2848,2023-06-25 12:24:12,1,8.99,11.01,69,10.15,10.6,Holofoil,199/203,Ultra Rare,Supporter
+246792,Aroma Lady (Secret),Aroma Lady Secret,3,2848,2021-10-04 14:05:26,1,4,5.75,29.95,5.21,5.12,Holofoil,221/203,Secret Rare,Supporter
+246793,Copycat (Full Art),Copycat Full Art,3,2848,2025-03-14 14:46:39,1,1.25,2.41,10.99,2.03,2.64,Holofoil,200/203,Ultra Rare,Supporter
+246794,Copycat (Secret),Copycat Secret,3,2848,2021-08-27 4:03:10,1,2.99,4.54,20,4.35,4.34,Holofoil,222/203,Secret Rare,Supporter
+246795,Gordie (Full Art),Gordie Full Art,3,2848,2021-08-27 4:03:10,1,1.2,2.03,89,1.77,1.62,Holofoil,201/203,Ultra Rare,Supporter
+246796,Gordie (Secret),Gordie Secret,3,2848,2022-09-02 14:53:09,1,2.44,3.99,89,3.11,3.18,Holofoil,223/203,Secret Rare,Supporter
+246797,Raihan (Full Art),Raihan Full Art,3,2848,2023-06-11 5:17:15,1,3.69,5.08,49.98,4.91,5.9,Holofoil,202/203,Ultra Rare,Supporter
+246798,Raihan (Secret),Raihan Secret,3,2848,2024-04-17 5:48:46,1,3.5,5.01,89,4.56,4.56,Holofoil,224/203,Secret Rare,Supporter
+246799,Zinnia's Resolve (Full Art),Zinnias Resolve Full Art,3,2848,2024-11-07 3:48:02,1,4.04,5.31,1000,4.91,4.92,Holofoil,203/203,Ultra Rare,Supporter
+246800,Zinnia's Resolve (Secret),Zinnias Resolve Secret,3,2848,2024-10-03 21:10:12,1,4.67,5.96,2000,5.23,5.3,Holofoil,225/203,Secret Rare,Supporter
+246801,Froslass (Secret),Froslass Secret,3,2848,2024-08-28 21:19:48,1,4.25,6.19,25.95,5.53,5.7,Holofoil,226/203,Secret Rare,Water
+246802,Inteleon (Secret),Inteleon Secret,3,2848,2025-04-03 11:25:49,1,6.49,8.34,49.95,7.69,8.36,Holofoil,227/203,Secret Rare,Water
+246803,Cresselia (Secret),Cresselia Secret,3,2848,2024-09-18 15:51:17,1,7.95,10.85,39.99,9.69,9.13,Holofoil,228/203,Secret Rare,Psychic
+246804,Boost Shake (Secret),Boost Shake Secret,3,2848,2021-08-27 4:03:10,1,1.45,2.52,20,2.18,2.33,Holofoil,229/203,Secret Rare,Item
+246805,Crystal Cave (Secret),Crystal Cave Secret,3,2848,2021-10-04 14:14:59,1,2.25,4.08,19.95,3.25,3.45,Holofoil,230/203,Secret Rare,Stadium
+246806,Full Face Guard (Secret),Full Face Guard Secret,3,2848,2021-09-09 13:05:29,1,1.8,2.99,20,2.45,2.3,Holofoil,231/203,Secret Rare,Tool
+246807,Stormy Mountains (Secret),Stormy Mountains Secret,3,2848,2021-10-04 14:26:25,1,3.45,4.59,89,4.35,4,Holofoil,232/203,Secret Rare,Stadium
+246808,Toy Catcher (Secret),Toy Catcher Secret,3,2848,2021-08-27 4:03:10,1,1.9,2.91,13.98,2.73,2.53,Holofoil,233/203,Secret Rare,Item
+246809,Turffield Stadium (Secret),Turffield Stadium Secret,3,2848,2023-02-07 9:21:23,1,1.98,3.94,89,3.7,3.94,Holofoil,234/203,Secret Rare,Stadium
+246810,Lightning Energy (Secret),Lightning Energy Secret,3,2848,2023-04-12 21:28:59,1,7.5,11,40,9.73,9.68,Holofoil,235/203,Secret Rare,Basic Energy
+246811,Darkness Energy (Secret),Darkness Energy Secret,3,2848,2021-10-04 14:15:21,1,21.94,26,179,22.76,22.93,Holofoil,236/203,Secret Rare,Basic Energy
+246812,Metal Energy (Secret),Metal Energy Secret,3,2848,2021-08-30 20:39:26,1,12,14.57,49.99,13.42,13.48,Holofoil,237/203,Secret Rare,Basic Energy
+246813,Pinsir,Pinsir,3,2848,2024-06-12 7:52:50,1,0.07,0.2,4.95,0.14,0.14,Reverse Holofoil,001/203,Rare,Grass
+246813,Pinsir,Pinsir,3,2848,2024-06-12 7:52:50,1,0.02,0.15,4.95,0.14,0.07,Normal,001/203,Rare,Grass
+246814,Hoppip,Hoppip,3,2848,2025-02-07 20:10:25,1,0.04,0.2,5.05,0.2,0.1,Reverse Holofoil,002/203,Common,Grass
+246814,Hoppip,Hoppip,3,2848,2025-02-07 20:10:25,1,0.01,0.1,19.95,0.06,0.01,Normal,002/203,Common,Grass
+246815,Skiploom,Skiploom,3,2848,2025-02-07 20:10:25,1,0.01,0.11,4.95,0.1,,Normal,003/203,Uncommon,Grass
+246815,Skiploom,Skiploom,3,2848,2025-02-07 20:10:25,1,0.05,0.2,4.95,0.18,,Reverse Holofoil,003/203,Uncommon,Grass
+246816,Psyduck,Psyduck,3,2848,2025-02-07 20:10:25,1,0.04,0.25,4.95,0.21,0.05,Reverse Holofoil,024/203,Common,Water
+246816,Psyduck,Psyduck,3,2848,2025-02-07 20:10:25,1,0.01,0.15,5.01,0.16,0.05,Normal,024/203,Common,Water
+246817,Jumpluff,Jumpluff,3,2848,2025-02-07 20:10:26,1,0.09,0.25,89,0.23,0.24,Holofoil,004/203,Holo Rare,Grass
+246817,Jumpluff,Jumpluff,3,2848,2025-02-07 20:10:26,1,0.08,0.25,4.95,0.3,0.13,Reverse Holofoil,004/203,Holo Rare,Grass
+246818,Golduck,Golduck,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,025/203,Uncommon,Water
+246818,Golduck,Golduck,3,2848,2025-02-07 20:10:26,1,0.05,0.19,5.05,0.14,0.1,Reverse Holofoil,025/203,Uncommon,Water
+246819,Tentacool,Tentacool,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.05,,Normal,026/203,Common,Water
+246819,Tentacool,Tentacool,3,2848,2025-02-07 20:10:26,1,0.04,0.17,5.05,0.15,0.14,Reverse Holofoil,026/203,Common,Water
+246820,Seedot,Seedot,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,005/203,Common,Grass
+246820,Seedot,Seedot,3,2848,2025-02-07 20:10:26,1,0.03,0.17,89,0.12,,Reverse Holofoil,005/203,Common,Grass
+246821,Tropius,Tropius,3,2848,2021-08-27 4:03:10,1,0.05,0.21,5.05,0.18,0.1,Reverse Holofoil,006/203,Rare,Grass
+246821,Tropius,Tropius,3,2848,2021-08-27 4:03:10,1,0.01,0.15,5.01,0.11,0.05,Normal,006/203,Rare,Grass
+246822,Tentacruel,Tentacruel,3,2848,2025-02-07 20:10:26,1,0.01,0.11,19.95,0.11,,Normal,027/203,Uncommon,Water
+246822,Tentacruel,Tentacruel,3,2848,2025-02-07 20:10:26,1,0.02,0.18,4.95,0.14,0.11,Reverse Holofoil,027/203,Uncommon,Water
+246823,Petilil,Petilil,3,2848,2025-02-07 20:10:26,1,0.04,0.15,5.05,0.14,,Reverse Holofoil,009/203,Common,Grass
+246823,Petilil,Petilil,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.05,,Normal,009/203,Common,Grass
+246824,Lilligant,Lilligant,3,2848,2025-02-07 20:10:26,1,0.01,0.15,5.04,0.14,0.09,Normal,010/203,Rare,Grass
+246824,Lilligant,Lilligant,3,2848,2025-02-07 20:10:26,1,0.01,0.2,4.95,0.18,,Reverse Holofoil,010/203,Rare,Grass
+246825,Dwebble,Dwebble,3,2848,2025-02-07 20:10:26,1,0.04,0.2,4.95,0.18,,Reverse Holofoil,011/203,Common,Grass
+246825,Dwebble,Dwebble,3,2848,2025-02-07 20:10:26,1,0.01,0.1,4.95,0.07,,Normal,011/203,Common,Grass
+246826,Crustle,Crustle,3,2848,2025-02-07 20:10:26,1,0.01,0.1,4.95,0.09,,Normal,012/203,Uncommon,Grass
+246826,Crustle,Crustle,3,2848,2025-02-07 20:10:26,1,0.04,0.2,89,0.15,0.08,Reverse Holofoil,012/203,Uncommon,Grass
+246827,Drowzee,Drowzee,3,2848,2025-02-07 20:10:26,1,0.01,0.15,4.95,0.14,,Reverse Holofoil,061/203,Common,Psychic
+246827,Drowzee,Drowzee,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,061/203,Common,Psychic
+246828,Gossifleur,Gossifleur,3,2848,2025-02-07 20:10:26,1,0.04,0.15,4.95,0.13,0.08,Reverse Holofoil,015/203,Common,Grass
+246828,Gossifleur,Gossifleur,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,015/203,Common,Grass
+246829,Lotad,Lotad,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,032/203,Common,Water
+246829,Lotad,Lotad,3,2848,2025-02-07 20:10:26,1,0.03,0.2,4.95,0.14,,Reverse Holofoil,032/203,Common,Water
+246830,Lombre,Lombre,3,2848,2025-02-07 20:10:26,1,0.04,0.19,4.95,0.16,,Reverse Holofoil,033/203,Uncommon,Water
+246830,Lombre,Lombre,3,2848,2025-02-07 20:10:26,1,0.01,0.1,19.95,0.07,,Normal,033/203,Uncommon,Water
+246831,Eldegoss,Eldegoss,3,2848,2024-09-24 2:41:12,1,0.05,0.25,89,0.23,0.19,Holofoil,016/203,Holo Rare,Grass
+246831,Eldegoss,Eldegoss,3,2848,2024-09-24 2:41:12,1,0.13,0.29,4.95,0.29,0.25,Reverse Holofoil,016/203,Holo Rare,Grass
+246832,Applin,Applin,3,2848,2025-02-07 20:10:27,1,0.01,0.1,5.01,0.08,0.03,Normal,017/203,Common,Grass
+246832,Applin,Applin,3,2848,2025-02-07 20:10:27,1,0.02,0.2,89,0.18,,Reverse Holofoil,017/203,Common,Grass
+246833,Hypno,Hypno,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.09,,Normal,062/203,Uncommon,Psychic
+246833,Hypno,Hypno,3,2848,2025-02-07 20:10:27,1,0.03,0.2,4.95,0.18,,Reverse Holofoil,062/203,Uncommon,Psychic
+246834,Ludicolo,Ludicolo,3,2848,2025-02-07 20:10:27,1,0.1,0.25,4.99,0.22,0.24,Holofoil,034/203,Holo Rare,Water
+246834,Ludicolo,Ludicolo,3,2848,2025-02-07 20:10:27,1,0.14,0.3,4.95,0.31,,Reverse Holofoil,034/203,Holo Rare,Water
+246835,Entei,Entei,3,2848,2024-08-28 19:04:04,1,0.1,0.25,9.99,0.21,0.21,Holofoil,019/203,Holo Rare,Fire
+246835,Entei,Entei,3,2848,2024-08-28 19:04:04,1,0.14,0.3,4.95,0.3,,Reverse Holofoil,019/203,Holo Rare,Fire
+246836,Victini,Victini,3,2848,2024-08-28 19:03:55,1,0.08,0.27,89,0.27,0.14,Holofoil,020/203,Holo Rare,Fire
+246836,Victini,Victini,3,2848,2024-08-28 19:03:55,1,0.14,0.31,4.95,0.34,0.23,Reverse Holofoil,020/203,Holo Rare,Fire
+246837,Galarian Articuno,Galarian Articuno,3,2848,2023-03-09 16:30:32,1,0.14,0.36,4.99,0.35,0.3,Reverse Holofoil,063/203,Holo Rare,Psychic
+246837,Galarian Articuno,Galarian Articuno,3,2848,2023-03-09 16:30:32,1,0.1,0.28,9.99,0.27,0.23,Holofoil,063/203,Holo Rare,Psychic
+246838,Litleo,Litleo,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.05,0.02,Normal,022/203,Common,Fire
+246838,Litleo,Litleo,3,2848,2025-02-07 20:10:27,1,0.02,0.15,4.95,0.14,,Reverse Holofoil,022/203,Common,Fire
+246839,Carvanha,Carvanha,3,2848,2025-02-07 20:10:27,1,0.03,0.16,4.95,0.15,0.09,Reverse Holofoil,035/203,Common,Water
+246839,Carvanha,Carvanha,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.04,,Normal,035/203,Common,Water
+246840,Wobbuffet,Wobbuffet,3,2848,2025-02-07 20:10:27,1,0.05,0.2,4.95,0.17,0.1,Reverse Holofoil,066/203,Common,Psychic
+246840,Wobbuffet,Wobbuffet,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.09,,Normal,066/203,Common,Psychic
+246841,Pyroar,Pyroar,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.09,,Normal,023/203,Uncommon,Fire
+246841,Pyroar,Pyroar,3,2848,2025-02-07 20:10:27,1,0.04,0.16,5.08,0.16,0.05,Reverse Holofoil,023/203,Uncommon,Fire
+246842,Sableye,Sableye,3,2848,2025-02-07 20:10:27,1,0.01,0.1,19.95,0.07,,Normal,067/203,Common,Psychic
+246842,Sableye,Sableye,3,2848,2025-02-07 20:10:27,1,0.03,0.19,4.95,0.15,0.1,Reverse Holofoil,067/203,Common,Psychic
+246843,Woobat,Woobat,3,2848,2025-02-07 20:10:28,1,0.04,0.2,4.95,0.17,,Reverse Holofoil,068/203,Common,Psychic
+246843,Woobat,Woobat,3,2848,2025-02-07 20:10:28,1,0.01,0.13,19.95,0.14,,Normal,068/203,Common,Psychic
+246844,Sharpedo,Sharpedo,3,2848,2025-02-07 20:10:28,1,0.02,0.15,5.04,0.13,0.04,Normal,036/203,Rare,Water
+246844,Sharpedo,Sharpedo,3,2848,2025-02-07 20:10:28,1,0.08,0.21,5.09,0.19,0.12,Reverse Holofoil,036/203,Rare,Water
+246845,Swoobat,Swoobat,3,2848,2025-02-07 20:10:28,1,0.01,0.1,19.95,0.06,0.02,Normal,069/203,Uncommon,Psychic
+246845,Swoobat,Swoobat,3,2848,2025-02-07 20:10:28,1,0.05,0.17,4.95,0.13,,Reverse Holofoil,069/203,Uncommon,Psychic
+246846,Feebas,Feebas,3,2848,2025-02-07 20:10:28,1,0.03,0.2,4.95,0.18,0.08,Reverse Holofoil,037/203,Common,Water
+246846,Feebas,Feebas,3,2848,2025-02-07 20:10:28,1,0.01,0.1,5.01,0.04,,Normal,037/203,Common,Water
+246847,Eevee,Eevee,3,2848,2025-02-07 20:10:28,1,0.03,0.17,19.95,0.17,0.1,Normal,125/203,Common,Colorless
+246847,Eevee,Eevee,3,2848,2025-02-07 20:10:28,1,0.06,0.35,89,0.36,0.24,Reverse Holofoil,125/203,Common,Colorless
+246848,Teddiursa,Teddiursa,3,2848,2025-02-07 20:10:28,1,0.01,0.1,19.95,0.09,0.02,Normal,126/203,Common,Colorless
+246848,Teddiursa,Teddiursa,3,2848,2025-02-07 20:10:28,1,0.04,0.23,4.95,0.23,,Reverse Holofoil,126/203,Common,Colorless
+246849,Flabebe,Flabebe,3,2848,2025-02-07 20:10:28,1,0.04,0.17,4.95,0.13,0.1,Reverse Holofoil,071/203,Common,Psychic
+246849,Flabebe,Flabebe,3,2848,2025-02-07 20:10:28,1,0.01,0.1,4.95,0.05,,Normal,071/203,Common,Psychic
+246850,Ursaring,Ursaring,3,2848,2025-02-07 20:10:29,1,0.05,0.22,89,0.22,,Reverse Holofoil,127/203,Uncommon,Colorless
+246850,Ursaring,Ursaring,3,2848,2025-02-07 20:10:29,1,0.01,0.11,19.95,0.09,0.02,Normal,127/203,Uncommon,Colorless
+246851,Milotic,Milotic,3,2848,2025-02-07 20:10:29,1,0.05,0.2,5.05,0.15,0.09,Normal,038/203,Rare,Water
+246851,Milotic,Milotic,3,2848,2025-02-07 20:10:29,1,0.09,0.24,4.95,0.2,,Reverse Holofoil,038/203,Rare,Water
+246852,Floette,Floette,3,2848,2025-02-07 20:10:29,1,0.04,0.17,5.04,0.13,0.08,Reverse Holofoil,072/203,Uncommon,Psychic
+246852,Floette,Floette,3,2848,2025-02-07 20:10:29,1,0.01,0.1,4.95,0.07,,Normal,072/203,Uncommon,Psychic
+246853,Smeargle,Smeargle,3,2848,2023-12-04 11:20:26,1,0.02,0.15,4.95,0.12,0.06,Normal,128/203,Rare,Colorless
+246853,Smeargle,Smeargle,3,2848,2023-12-04 11:20:26,1,0.05,0.26,89,0.25,0.21,Reverse Holofoil,128/203,Rare,Colorless
+246854,Luvdisc,Luvdisc,3,2848,2025-02-07 20:10:29,1,0.01,0.1,19.95,0.05,,Normal,039/203,Common,Water
+246854,Luvdisc,Luvdisc,3,2848,2025-02-07 20:10:29,1,0.01,0.17,4.95,0.14,,Reverse Holofoil,039/203,Common,Water
+246855,Florges,Florges,3,2848,2023-04-25 10:02:14,1,0.11,0.25,4.95,0.2,0.16,Reverse Holofoil,073/203,Holo Rare,Psychic
+246855,Florges,Florges,3,2848,2023-04-25 10:02:14,1,0.05,0.23,4.99,0.2,0.09,Holofoil,073/203,Holo Rare,Psychic
+246856,Slakoth,Slakoth,3,2848,2025-02-07 20:10:29,1,0.01,0.1,19.95,0.05,,Normal,129/203,Common,Colorless
+246856,Slakoth,Slakoth,3,2848,2025-02-07 20:10:29,1,0.05,0.18,4.95,0.11,,Reverse Holofoil,129/203,Common,Colorless
+246857,Pumpkaboo,Pumpkaboo,3,2848,2025-04-15 21:32:55,1,0.01,0.13,19.95,0.1,,Normal,076/203,Common,Psychic
+246857,Pumpkaboo,Pumpkaboo,3,2848,2025-04-15 21:32:55,1,0.02,0.21,4.95,0.18,0.15,Reverse Holofoil,076/203,Common,Psychic
+246858,Tympole,Tympole,3,2848,2025-02-07 20:10:29,1,0.01,0.1,19.95,0.03,0.02,Normal,042/203,Common,Water
+246858,Tympole,Tympole,3,2848,2025-02-07 20:10:29,1,0.03,0.15,4.95,0.15,,Reverse Holofoil,042/203,Common,Water
+246859,Vigoroth,Vigoroth,3,2848,2025-02-07 20:10:29,1,0.05,0.2,4.95,0.13,0.08,Reverse Holofoil,130/203,Uncommon,Colorless
+246859,Vigoroth,Vigoroth,3,2848,2025-02-07 20:10:29,1,0.01,0.1,19.95,0.07,,Normal,130/203,Uncommon,Colorless
+246860,Gourgeist,Gourgeist,3,2848,2025-02-07 20:10:29,1,0.01,0.15,19.95,0.1,0.03,Normal,077/203,Rare,Psychic
+246860,Gourgeist,Gourgeist,3,2848,2025-02-07 20:10:29,1,0.04,0.2,24.7,0.18,,Reverse Holofoil,077/203,Rare,Psychic
+246861,Slaking,Slaking,3,2848,2023-12-29 2:42:28,1,0.03,0.22,89,0.13,0.13,Holofoil,131/203,Holo Rare,Colorless
+246861,Slaking,Slaking,3,2848,2023-12-29 2:42:28,1,0.1,0.25,4.95,0.21,0.21,Reverse Holofoil,131/203,Holo Rare,Colorless
+246862,Cutiefly,Cutiefly,3,2848,2022-01-24 15:45:52,1,0.01,0.1,19.95,0.1,0.04,Normal,078/203,Common,Psychic
+246862,Cutiefly,Cutiefly,3,2848,2022-01-24 15:45:52,1,0.04,0.21,5.04,0.2,0.1,Reverse Holofoil,078/203,Common,Psychic
+246863,Swablu,Swablu,3,2848,2025-02-07 20:10:29,1,0.01,0.1,19.95,0.09,,Normal,132/203,Common,Colorless
+246863,Swablu,Swablu,3,2848,2025-02-07 20:10:29,1,0.04,0.18,89,0.17,,Reverse Holofoil,132/203,Common,Colorless
+246864,Ribombee,Ribombee,3,2848,2025-02-07 20:10:29,1,0.05,0.2,5.05,0.16,,Reverse Holofoil,079/203,Uncommon,Psychic
+246864,Ribombee,Ribombee,3,2848,2025-02-07 20:10:29,1,0.01,0.1,4.95,0.08,,Normal,079/203,Uncommon,Psychic
+246865,Cryogonal,Cryogonal,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.06,,Normal,043/203,Common,Water
+246865,Cryogonal,Cryogonal,3,2848,2025-02-07 20:10:30,1,0.04,0.17,4.95,0.15,,Reverse Holofoil,043/203,Common,Water
+246866,Marshadow,Marshadow,3,2848,2024-08-10 17:17:21,1,0.06,0.27,9.99,0.3,0.14,Holofoil,080/203,Holo Rare,Psychic
+246866,Marshadow,Marshadow,3,2848,2024-08-10 17:17:21,1,0.05,0.29,4.95,0.26,0.24,Reverse Holofoil,080/203,Holo Rare,Psychic
+246867,Lillipup,Lillipup,3,2848,2025-02-07 20:10:30,1,0.01,0.1,4.95,0.06,,Normal,133/203,Common,Colorless
+246867,Lillipup,Lillipup,3,2848,2025-02-07 20:10:30,1,0.03,0.19,4.95,0.15,0.08,Reverse Holofoil,133/203,Common,Colorless
+246868,Bergmite,Bergmite,3,2848,2025-02-07 20:10:30,1,0.04,0.15,5.05,0.13,0.1,Reverse Holofoil,044/203,Common,Water
+246868,Bergmite,Bergmite,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.05,,Normal,044/203,Common,Water
+246869,Herdier,Herdier,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.08,,Normal,134/203,Uncommon,Colorless
+246869,Herdier,Herdier,3,2848,2025-02-07 20:10:30,1,0.02,0.18,89,0.17,,Reverse Holofoil,134/203,Uncommon,Colorless
+246870,Avalugg,Avalugg,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.08,,Normal,045/203,Uncommon,Water
+246870,Avalugg,Avalugg,3,2848,2025-02-07 20:10:30,1,0.06,0.2,4.95,0.16,,Reverse Holofoil,045/203,Uncommon,Water
+246871,Hitmonchan,Hitmonchan,3,2848,2025-02-07 20:10:30,1,0.05,0.19,5.05,0.16,0.1,Reverse Holofoil,081/203,Common,Fighting
+246871,Hitmonchan,Hitmonchan,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.05,0.02,Normal,081/203,Common,Fighting
+246872,Stoutland,Stoutland,3,2848,2025-02-07 20:10:30,1,0.01,0.15,19.95,0.13,0.06,Normal,135/203,Rare,Colorless
+246872,Stoutland,Stoutland,3,2848,2025-02-07 20:10:30,1,0.04,0.2,89,0.15,,Reverse Holofoil,135/203,Rare,Colorless
+246873,Wishiwashi,Wishiwashi,3,2848,2025-02-07 20:10:30,1,0.05,0.2,4.95,0.19,0.15,Reverse Holofoil,046/203,Rare,Water
+246873,Wishiwashi,Wishiwashi,3,2848,2025-02-07 20:10:30,1,0.01,0.15,19.95,0.11,0.07,Normal,046/203,Rare,Water
+246874,Rufflet,Rufflet,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.04,,Normal,136/203,Common,Colorless
+246874,Rufflet,Rufflet,3,2848,2025-02-07 20:10:30,1,0.03,0.18,4.95,0.13,,Reverse Holofoil,136/203,Common,Colorless
+246875,Galarian Zapdos,Galarian Zapdos,3,2848,2025-02-07 20:10:30,1,0.19,0.32,5,0.3,0.22,Reverse Holofoil,082/203,Holo Rare,Fighting
+246875,Galarian Zapdos,Galarian Zapdos,3,2848,2025-02-07 20:10:30,1,0.07,0.25,9.99,0.22,,Holofoil,082/203,Holo Rare,Fighting
+246876,Eiscue,Eiscue,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.07,0.05,Normal,047/203,Uncommon,Water
+246876,Eiscue,Eiscue,3,2848,2025-02-07 20:10:30,1,0.05,0.2,4.95,0.16,,Reverse Holofoil,047/203,Uncommon,Water
+246877,Braviary,Braviary,3,2848,2021-08-27 4:03:10,1,0.05,0.18,89,0.12,0.15,Reverse Holofoil,137/203,Uncommon,Colorless
+246877,Braviary,Braviary,3,2848,2021-08-27 4:03:10,1,0.01,0.1,5.01,0.05,0.03,Normal,137/203,Uncommon,Colorless
+246878,Hippopotas,Hippopotas,3,2848,2025-02-07 20:10:30,1,0.03,0.16,4.95,0.12,,Reverse Holofoil,084/203,Common,Fighting
+246878,Hippopotas,Hippopotas,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.03,0.02,Normal,084/203,Common,Fighting
+246879,Fletchling,Fletchling,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.05,,Normal,138/203,Common,Colorless
+246879,Fletchling,Fletchling,3,2848,2025-02-07 20:10:30,1,0.04,0.16,89,0.14,0.08,Reverse Holofoil,138/203,Common,Colorless
+246880,Hippowdon,Hippowdon,3,2848,2025-02-07 20:10:30,1,0.06,0.16,4.95,0.12,0.1,Reverse Holofoil,085/203,Uncommon,Fighting
+246880,Hippowdon,Hippowdon,3,2848,2025-02-07 20:10:30,1,0.01,0.1,19.95,0.05,,Normal,085/203,Uncommon,Fighting
+246881,Pikachu,Pikachu,3,2848,2025-02-07 20:10:30,1,0.01,0.18,19.95,0.17,0.14,Normal,049/203,Common,Lightning
+246881,Pikachu,Pikachu,3,2848,2025-02-07 20:10:30,1,0.15,0.39,10,0.42,,Reverse Holofoil,049/203,Common,Lightning
+246882,Fletchinder,Fletchinder,3,2848,2025-02-07 20:10:31,1,0.02,0.18,89,0.11,0.08,Reverse Holofoil,139/203,Uncommon,Colorless
+246882,Fletchinder,Fletchinder,3,2848,2025-02-07 20:10:31,1,0.01,0.1,4.95,0.06,,Normal,139/203,Uncommon,Colorless
+246883,Roggenrola,Roggenrola,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.08,,Normal,086/203,Common,Fighting
+246883,Roggenrola,Roggenrola,3,2848,2025-02-07 20:10:31,1,0.03,0.19,4.95,0.17,0.05,Reverse Holofoil,086/203,Common,Fighting
+246884,Boldore,Boldore,3,2848,2025-02-07 20:10:31,1,0.03,0.2,4.95,0.18,0.14,Reverse Holofoil,087/203,Uncommon,Fighting
+246884,Boldore,Boldore,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.1,,Normal,087/203,Uncommon,Fighting
+246885,Talonflame,Talonflame,3,2848,2025-02-07 20:10:31,1,0.03,0.17,5.03,0.17,0.04,Normal,140/203,Rare,Colorless
+246885,Talonflame,Talonflame,3,2848,2025-02-07 20:10:31,1,0.1,0.25,4.95,0.22,,Reverse Holofoil,140/203,Rare,Colorless
+246886,Raichu,Raichu,3,2848,2023-11-10 16:48:17,1,0.1,0.29,5,0.25,0.15,Holofoil,050/203,Holo Rare,Lightning
+246886,Raichu,Raichu,3,2848,2023-11-10 16:48:17,1,0.12,0.34,4.95,0.34,0.28,Reverse Holofoil,050/203,Holo Rare,Lightning
+246887,Gigalith,Gigalith,3,2848,2025-02-07 20:10:31,1,0.03,0.22,10,0.18,0.1,Reverse Holofoil,088/203,Rare,Fighting
+246887,Gigalith,Gigalith,3,2848,2025-02-07 20:10:31,1,0.03,0.18,19.95,0.14,,Normal,088/203,Rare,Fighting
+246888,Chinchou,Chinchou,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.08,,Normal,052/203,Common,Lightning
+246888,Chinchou,Chinchou,3,2848,2025-02-07 20:10:31,1,0.02,0.17,4.95,0.1,0.1,Reverse Holofoil,052/203,Common,Lightning
+246889,Galarian Moltres,Galarian Moltres,3,2848,2025-02-07 20:10:31,1,0.14,0.38,89,0.38,0.3,Reverse Holofoil,093/203,Holo Rare,Darkness
+246889,Galarian Moltres,Galarian Moltres,3,2848,2025-02-07 20:10:31,1,0.09,0.33,89,0.3,0.25,Holofoil,093/203,Holo Rare,Darkness
+246890,Palpitoad,Palpitoad,3,2848,2025-02-07 20:10:31,1,0.05,0.15,4.95,0.13,,Reverse Holofoil,089/203,Uncommon,Fighting
+246890,Palpitoad,Palpitoad,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.06,,Normal,089/203,Uncommon,Fighting
+246891,Nuzleaf,Nuzleaf,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.05,,Normal,096/203,Uncommon,Darkness
+246891,Nuzleaf,Nuzleaf,3,2848,2025-02-07 20:10:31,1,0.03,0.19,4.95,0.11,,Reverse Holofoil,096/203,Uncommon,Darkness
+246892,Seismitoad,Seismitoad,3,2848,2025-02-23 12:44:54,1,0.01,0.15,5.01,0.12,0.08,Normal,090/203,Rare,Fighting
+246892,Seismitoad,Seismitoad,3,2848,2025-02-23 12:44:54,1,0.09,0.24,4.95,0.16,0.18,Reverse Holofoil,090/203,Rare,Fighting
+246893,Lanturn,Lanturn,3,2848,2025-02-07 20:10:31,1,0.03,0.18,4.95,0.15,0.1,Reverse Holofoil,053/203,Uncommon,Lightning
+246893,Lanturn,Lanturn,3,2848,2025-02-07 20:10:31,1,0.01,0.1,4.95,0.07,,Normal,053/203,Uncommon,Lightning
+246894,Shiftry,Shiftry,3,2848,2025-02-07 20:10:31,1,0.05,0.2,4.99,0.14,,Reverse Holofoil,097/203,Rare,Darkness
+246894,Shiftry,Shiftry,3,2848,2025-02-07 20:10:31,1,0.02,0.15,19.95,0.12,0.05,Normal,097/203,Rare,Darkness
+246895,Mareep,Mareep,3,2848,2025-02-07 20:10:31,1,0.01,0.12,19.95,0.11,,Normal,054/203,Common,Lightning
+246895,Mareep,Mareep,3,2848,2025-02-07 20:10:31,1,0.04,0.22,4.95,0.21,,Reverse Holofoil,054/203,Common,Lightning
+246896,Scraggy,Scraggy,3,2848,2025-02-07 20:10:31,1,0.03,0.16,4.95,0.13,0.08,Reverse Holofoil,098/203,Common,Darkness
+246896,Scraggy,Scraggy,3,2848,2025-02-07 20:10:31,1,0.01,0.1,19.95,0.08,,Normal,098/203,Common,Darkness
+246897,Flaaffy,Flaaffy,3,2848,2025-02-07 20:10:31,1,0.01,0.19,19.95,0.17,,Normal,055/203,Uncommon,Lightning
+246897,Flaaffy,Flaaffy,3,2848,2025-02-07 20:10:31,1,0.09,0.25,4.95,0.22,0.2,Reverse Holofoil,055/203,Uncommon,Lightning
+246898,Ampharos,Ampharos,3,2848,2025-02-07 20:10:32,1,0.08,0.26,49,0.28,0.2,Reverse Holofoil,056/203,Rare,Lightning
+246898,Ampharos,Ampharos,3,2848,2025-02-07 20:10:32,1,0.01,0.19,4.95,0.17,,Normal,056/203,Rare,Lightning
+246899,Zorua,Zorua,3,2848,2025-02-07 20:10:32,1,0.04,0.2,4.95,0.2,0.1,Reverse Holofoil,102/203,Common,Darkness
+246899,Zorua,Zorua,3,2848,2025-02-07 20:10:32,1,0.01,0.1,19.95,0.09,0.01,Normal,102/203,Common,Darkness
+246900,Emolga,Emolga,3,2848,2025-02-07 20:10:32,1,0.04,0.2,4.95,0.15,,Reverse Holofoil,057/203,Common,Lightning
+246900,Emolga,Emolga,3,2848,2025-02-07 20:10:32,1,0.01,0.1,19.95,0.07,,Normal,057/203,Common,Lightning
+246901,Zoroark,Zoroark,3,2848,2024-10-03 21:14:02,1,0.07,0.3,19.99,0.24,0.15,Holofoil,103/203,Holo Rare,Darkness
+246901,Zoroark,Zoroark,3,2848,2024-10-03 21:14:02,1,0.09,0.38,4.99,0.32,0.3,Reverse Holofoil,103/203,Holo Rare,Darkness
+246902,Regieleki,Regieleki,3,2848,2023-10-11 16:57:02,1,0.05,0.23,4.95,0.19,0.13,Holofoil,060/203,Holo Rare,Lightning
+246902,Regieleki,Regieleki,3,2848,2023-10-11 16:57:02,1,0.15,0.3,4.99,0.26,0.23,Reverse Holofoil,060/203,Holo Rare,Lightning
+246903,Nickit,Nickit,3,2848,2025-02-07 20:10:32,1,0.01,0.1,4.95,0.05,,Normal,104/203,Common,Darkness
+246903,Nickit,Nickit,3,2848,2025-02-07 20:10:32,1,0.03,0.18,4.95,0.13,,Reverse Holofoil,104/203,Common,Darkness
+246904,Thievul,Thievul,3,2848,2025-02-07 20:10:32,1,0.01,0.17,5.05,0.13,0.05,Normal,105/203,Rare,Darkness
+246904,Thievul,Thievul,3,2848,2025-02-07 20:10:32,1,0.05,0.2,4.99,0.17,,Reverse Holofoil,105/203,Rare,Darkness
+246905,Scrafty,Scrafty,3,2848,2025-02-07 20:10:32,1,0.03,0.18,5.03,0.12,,Reverse Holofoil,099/203,Uncommon,Darkness
+246905,Scrafty,Scrafty,3,2848,2025-02-07 20:10:32,1,0.01,0.1,5.01,0.06,0.02,Normal,099/203,Uncommon,Darkness
+246906,Altaria,Altaria,3,2848,2025-02-07 20:10:32,1,0.01,0.17,5.01,0.15,0.07,Normal,106/203,Rare,Dragon
+246906,Altaria,Altaria,3,2848,2025-02-07 20:10:32,1,0.05,0.2,4.95,0.16,0.14,Reverse Holofoil,106/203,Rare,Dragon
+246907,Bagon,Bagon,3,2848,2024-10-15 15:47:23,1,0.01,0.1,19.95,0.08,0.03,Normal,107/203,Common,Dragon
+246907,Bagon,Bagon,3,2848,2024-10-15 15:47:23,1,0.05,0.18,4.95,0.15,0.12,Reverse Holofoil,107/203,Common,Dragon
+246908,Shelgon,Shelgon,3,2848,2025-02-07 20:10:32,1,0.01,0.14,5.02,0.13,0.05,Normal,108/203,Uncommon,Dragon
+246908,Shelgon,Shelgon,3,2848,2025-02-07 20:10:32,1,0.05,0.21,4.95,0.19,,Reverse Holofoil,108/203,Uncommon,Dragon
+246909,Salamence,Salamence,3,2848,2024-11-11 8:48:43,1,0.25,0.49,4.95,0.5,0.42,Reverse Holofoil,109/203,Holo Rare,Dragon
+246909,Salamence,Salamence,3,2848,2024-11-11 8:48:43,1,0.2,0.41,9.99,0.48,0.34,Holofoil,109/203,Holo Rare,Dragon
+246910,Dialga,Dialga,3,2848,2025-02-07 20:10:32,1,0.1,0.29,4.95,0.26,,Reverse Holofoil,112/203,Holo Rare,Dragon
+246910,Dialga,Dialga,3,2848,2025-02-07 20:10:32,1,0.06,0.25,4.99,0.29,,Holofoil,112/203,Holo Rare,Dragon
+246911,Deino,Deino,3,2848,2025-02-07 20:10:32,1,0.03,0.18,4.95,0.15,0.03,Reverse Holofoil,113/203,Common,Dragon
+246911,Deino,Deino,3,2848,2025-02-07 20:10:32,1,0.01,0.1,19.95,0.08,0.05,Normal,113/203,Common,Dragon
+246912,Zweilous,Zweilous,3,2848,2024-10-15 15:47:23,1,0.01,0.11,5.01,0.07,0.05,Normal,114/203,Uncommon,Dragon
+246912,Zweilous,Zweilous,3,2848,2024-10-15 15:47:23,1,0.05,0.18,4.95,0.15,0.1,Reverse Holofoil,114/203,Uncommon,Dragon
+246913,Hydreigon,Hydreigon,3,2848,2024-06-02 9:45:39,1,0.05,0.25,9.99,0.23,0.13,Holofoil,115/203,Holo Rare,Dragon
+246913,Hydreigon,Hydreigon,3,2848,2024-06-02 9:45:39,1,0.15,0.29,4.95,0.27,0.28,Reverse Holofoil,115/203,Holo Rare,Dragon
+246914,Kyurem,Kyurem,3,2848,2025-02-07 20:10:32,1,0.05,0.25,4.95,0.22,,Reverse Holofoil,116/203,Holo Rare,Dragon
+246914,Kyurem,Kyurem,3,2848,2025-02-07 20:10:32,1,0.05,0.25,9.99,0.22,,Holofoil,116/203,Holo Rare,Dragon
+246915,Zygarde,Zygarde,3,2848,2023-05-18 13:45:53,1,0.09,0.25,9.99,0.22,0.15,Holofoil,118/203,Holo Rare,Dragon
+246915,Zygarde,Zygarde,3,2848,2023-05-18 13:45:53,1,0.1,0.25,4.95,0.2,0.18,Reverse Holofoil,118/203,Holo Rare,Dragon
+246917,Drampa,Drampa,3,2848,2025-02-07 20:10:32,1,0.04,0.17,19.95,0.15,0.08,Normal,119/203,Rare,Dragon
+246917,Drampa,Drampa,3,2848,2025-02-07 20:10:32,1,0.08,0.25,5.03,0.25,0.2,Reverse Holofoil,119/203,Rare,Dragon
+246918,Flapple,Flapple,3,2848,2025-02-07 20:10:32,1,0.09,0.21,4.95,0.19,0.21,Reverse Holofoil,120/203,Rare,Dragon
+246918,Flapple,Flapple,3,2848,2025-02-07 20:10:32,1,0.02,0.16,5.03,0.14,0.08,Normal,120/203,Rare,Dragon
+246921,Appletun,Appletun,3,2848,2025-02-07 20:10:32,1,0.06,0.24,4.95,0.19,0.15,Reverse Holofoil,121/203,Rare,Dragon
+246921,Appletun,Appletun,3,2848,2025-02-07 20:10:32,1,0.01,0.19,18.36,0.13,,Normal,121/203,Rare,Dragon
+246923,Regidrago,Regidrago,3,2848,2025-02-07 20:10:33,1,0.1,0.29,4.95,0.29,,Reverse Holofoil,124/203,Holo Rare,Dragon
+246923,Regidrago,Regidrago,3,2848,2025-02-07 20:10:33,1,0.02,0.24,89,0.2,,Holofoil,124/203,Holo Rare,Dragon
+246925,Dracozolt VMAX (Secret),Dracozolt VMAX Secret,3,2848,2022-03-24 18:32:03,1,5.69,7.95,24.99,6.79,7.66,Holofoil,210/203,Secret Rare,Lightning
+247497,Evolving Skies Booster Pack Art Bundle [Set of 4],Evolving Skies Booster Pack Art Bundle Set of 4,3,2848,2021-08-27 13:39:42,1,110,130,239.95,110.9,,Normal,,,
+247498,Evolving Skies Sleeved Booster Pack Art Bundle [Set of 4],Evolving Skies Sleeved Booster Pack Art Bundle Set of 4,3,2848,2021-08-27 13:40:41,1,175,199,259.99,156.14,,Normal,,,
+247603,Evolving Skies Premium Checklane Blister [Houndoom],Evolving Skies Premium Checklane Blister Houndoom,3,2848,2021-10-26 20:23:13,1,72.99,76.48,79.97,,,Normal,,,
+247604,Evolving Skies Single Pack Blister [Octillery],Evolving Skies Single Pack Blister Octillery,3,2848,2021-09-09 20:59:09,1,,,,,,,,,
+248026,Code Card - Evolving Skies Booster Pack,Code Card Evolving Skies Booster Pack,3,2848,2022-07-20 19:25:56,1,0.01,0.05,19.95,0.03,,Normal,,Code Card,
+248027,Code Card - Evolving Skies Build & Battle Box,Code Card Evolving Skies Build and Battle Box,3,2848,2022-07-20 19:25:58,1,0.4,0.51,2.95,0.49,,Normal,,Code Card,
+248028,Code Card - Evolving Skies Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon],Code Card Evolving Skies Elite Trainer Box Glaceon Vaporeon Sylveon Espeon,3,2848,2022-07-20 19:26:00,1,0.1,0.15,1,0.15,,Normal,,Code Card,
+248029,Code Card - Evolving Skies Elite Trainer Box [Jolteon/Flareon/Umbreon/Leafeon],Code Card Evolving Skies Elite Trainer Box Jolteon Flareon Umbreon Leafeon,3,2848,2022-07-20 19:26:02,1,0.04,0.13,1,0.13,,Normal,,Code Card,
+248030,Code Card - Evolving Skies Single Pack Blister [Eevee],Code Card Evolving Skies Single Pack Blister Eevee,3,2848,2022-07-20 19:26:13,1,0.05,0.11,0.35,,,Normal,,Code Card,
+248031,Code Card - Evolving Skies Single Pack Blister [Galarian Slowpoke],Code Card Evolving Skies Single Pack Blister Galarian Slowpoke,3,2848,2022-07-20 19:26:14,1,0.02,0.1,0.35,0.15,,Normal,,Code Card,
+248032,Code Card - Evolving Skies 3 Pack Blister [Umbreon],Code Card Evolving Skies 3 Pack Blister Umbreon,3,2848,2022-07-20 19:25:55,1,0.05,0.11,0.5,0.07,,Normal,,Code Card,
+248033,Code Card - Evolving Skies 3 Pack Blister [Eiscue],Code Card Evolving Skies 3 Pack Blister Eiscue,3,2848,2022-07-20 19:25:54,1,0.03,0.1,0.26,0.1,,Normal,,Code Card,
+248034,Code Card - Evolving Skies Pokemon Center Elite Trainer Box [Glaceon/Vaporeon/Sylveon/Espeon],Code Card Evolving Skies Pokemon Center Elite Trainer Box Glaceon Vaporeon Sylveon Espeon,3,2848,2022-07-20 19:26:03,1,3,3.35,3.7,3,,Normal,,Code Card,
+248035,Code Card - Evolving Skies Pokemon Center Elite Trainer Box [Jolteon/Flareon/Umbreon/Leafeon],Code Card Evolving Skies Pokemon Center Elite Trainer Box Jolteon Flareon Umbreon Leafeon,3,2848,2022-07-20 19:26:04,1,1.99,2.31,2.43,2.43,,Normal,,Code Card,
+248036,Code Card - Evolving Skies Premium Checklane Blister [Luxray],Code Card Evolving Skies Premium Checklane Blister Luxray,3,2848,2022-07-20 19:26:10,1,0.09,0.15,0.25,,,Normal,,Code Card,
+248037,Code Card - Evolving Skies Premium Checklane Blister [Emboar],Code Card Evolving Skies Premium Checklane Blister Emboar,3,2848,2022-07-20 19:26:06,1,0.1,0.1,0.1,,,Normal,,Code Card,
+248038,Code Card - Evolving Skies Premium Checklane Blister [Houndoom],Code Card Evolving Skies Premium Checklane Blister Houndoom,3,2848,2022-07-20 19:26:07,1,0.08,0.08,0.69,0.08,,Normal,,Code Card,
+248039,Code Card - Evolving Skies Premium Checklane Blister [Octillery],Code Card Evolving Skies Premium Checklane Blister Octillery,3,2848,2022-07-20 19:26:12,1,0.03,0.07,0.15,,,Normal,,Code Card,
+248040,Code Card - Mewtwo V-UNION Special Collection,Code Card Mewtwo V UNION Special Collection,3,2848,2022-07-20 19:41:16,1,3.97,4.84,19.99,3.97,,Normal,,Code Card,
+248041,Code Card - Zacian V-UNION Special Collection,Code Card Zacian V UNION Special Collection,3,2848,2022-07-20 19:27:05,1,0.4,0.57,4.99,0.57,,Normal,,Code Card,
+248042,Code Card - Greninja V-UNION Special Collection,Code Card Greninja V UNION Special Collection,3,2848,2022-07-20 19:32:03,1,0.15,1.84,2,0.64,,Normal,,Code Card,
+248124,Evolving Skies Booster Box Case,Evolving Skies Booster Box Case,3,2848,2021-09-08 15:01:36,1,20000,53830.89,99999.01,11925.9,,Normal,,,
+251430,Code Card - Evolving Skies Build & Battle Stadium,Code Card Evolving Skies Build and Battle Stadium,3,2848,2023-03-31 16:11:02,1,,,,,,,,Code Card,
+628319,Evolving Skies Pokemon Center Elite Trainer Box Case [Glaceon/Vaporeon/Sylveon/Espeon] (Exclusive),Evolving Skies Pokemon Center Elite Trainer Box Case Glaceon Vaporeon Sylveon Espeon Exclusive,3,2848,2025-04-30 13:09:17,1,10999.95,10999.95,10999.95,,,Normal,,,
+641794,Evolving Skies Half Booster Box,Evolving Skies Half Booster Box,3,2848,2025-07-08 19:36:43,0,1900,1900,1900,,,Normal,,,

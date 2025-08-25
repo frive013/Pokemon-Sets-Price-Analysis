@@ -1,0 +1,440 @@
+productId,name,cleanName,categoryId,groupId,modifiedOn,imageCount,lowPrice,avgPrice,highPrice,marketPrice,directLowPrice,subTypeName,extNumber,extRarity,extCardType
+630429,Black Bolt  Binder Collection Case,Black Bolt Binder Collection Case,3,24325,2025-07-18 4:33:22,1,310,335.59,619.22,327,,Normal,,,
+630430,Black Bolt Binder Collection,Black Bolt Binder Collection,3,24325,2025-07-18 4:33:22,1,46.45,54.59,300,50.16,,Normal,,,
+630431,Black Bolt Booster Bundle,Black Bolt Booster Bundle,3,24325,2025-05-07 19:09:59,1,61.49,61.63,79.96,63.46,,Normal,,,
+630432,Black Bolt Booster Bundle Case,Black Bolt Booster Bundle Case,3,24325,2025-06-24 13:36:29,1,1999.99,2000.04,2000.09,1832.46,,Normal,,,
+630433,Black Bolt Booster Bundle Display,Black Bolt Booster Bundle Display,3,24325,2025-06-24 13:40:29,1,,,,,,,,,
+630434,Black Bolt Booster Pack,Black Bolt Booster Pack,3,24325,2025-07-18 4:33:22,1,8.96,10,15.96,8.84,,Normal,,,
+630438,Unova Mini Tin [Garbodor & Amoonguss],Unova Mini Tin Garbodor and Amoonguss,3,24325,2025-07-18 4:33:22,1,19.99,22.5,33.29,21.54,,Normal,,,
+630439,Unova Mini Tin [Chandelure & Zorua],Unova Mini Tin Chandelure and Zorua,3,24325,2025-07-18 4:33:22,1,20,22.19,39.99,21.9,,Normal,,,
+630440,Unova Mini Tin [Krookodile & Excadrill],Unova Mini Tin Krookodile and Excadrill,3,24325,2025-07-18 4:33:22,1,17.89,21.98,29.99,21.62,,Normal,,,
+630441,Unova Mini Tin [Volcarona & Emolga],Unova Mini Tin Volcarona and Emolga,3,24325,2025-07-18 4:33:22,1,15,23,40,22.11,,Normal,,,
+630442,Unova Mini Tin [Lilligant & Whimsicot],Unova Mini Tin Lilligant and Whimsicot,3,24325,2025-07-18 4:33:22,1,18.99,21.21,40,19.63,,Normal,,,
+630443,Unova Mini Tin [Mienshao & Klinklang],Unova Mini Tin Mienshao and Klinklang,3,24325,2025-07-18 4:33:22,1,15,22,33.29,22.5,,Normal,,,
+630444,Unova Mini Tin [Alomomola & Axew],Unova Mini Tin Alomomola and Axew,3,24325,2025-07-18 4:33:22,1,15,22.15,39.99,20.43,,Normal,,,
+630445,Unova Mini Tin [Elektross & Galvantula],Unova Mini Tin Elektross and Galvantula,3,24325,2025-07-18 4:33:22,1,19.99,22,40,20.43,,Normal,,,
+630446,Unova Mini Tin Display,Unova Mini Tin Display,3,24325,2025-07-18 4:33:22,1,142.95,162.48,284.99,137.46,,Normal,,,
+630447,Unova Mini Tin Display Case,Unova Mini Tin Display Case,3,24325,2025-07-18 4:33:22,1,614.95,618.98,799.95,626.62,,Normal,,,
+630612,Unova Poster Collection,Unova Poster Collection,3,24325,2025-07-18 4:33:22,1,22.09,33.72,90,30.2,,Normal,,,
+630613,Unova Poster Collection Case,Unova Poster Collection Case,3,24325,2025-07-25 4:12:38,1,193.85,199.49,269.65,194.97,,Normal,,,
+630614,Black Bolt Tech Sticker Collection,Black Bolt Tech Sticker Collection,3,24325,2025-08-01 4:11:18,1,23.99,28.98,150,25.96,,Normal,,,
+630615,Unova Victini Illustration Collection,Unova Victini Illustration Collection,3,24325,2025-08-01 4:11:18,1,28,41.51,300,37.52,,Normal,,,
+630686,Black Bolt Elite Trainer Box,Black Bolt Elite Trainer Box,3,24325,2025-07-18 4:33:22,1,82.6,94.95,600,86.89,,Normal,,,
+630687,Black Bolt Pokemon Center Elite Trainer Box (Exclusive),Black Bolt Pokemon Center Elite Trainer Box Exclusive,3,24325,2025-07-18 4:33:22,1,173,245,9999,175.97,,Normal,,,
+630690,Black Bolt Elite Trainer Box Case,Black Bolt Elite Trainer Box Case,3,24325,2025-07-18 4:33:22,1,980,1149.49,1649.99,935.43,,Normal,,,
+630691,Black Bolt Pokemon Center Elite Trainer Box (Exclusive) Case,Black Bolt Pokemon Center Elite Trainer Box Exclusive Case,3,24325,2025-07-18 4:33:22,1,,,,,,,,,
+642180,Klink,Klink,3,24325,2025-07-18 17:02:18,1,0.01,0.1,4.99,0.05,0.03,Normal,061/086,Common,Metal
+642180,Klink,Klink,3,24325,2025-07-18 17:02:18,1,0.05,0.25,4.99,0.23,0.21,Reverse Holofoil,061/086,Common,Metal
+642181,Klang,Klang,3,24325,2025-07-18 17:02:19,1,0.04,0.15,4.99,0.14,0.12,Reverse Holofoil,062/086,Common,Metal
+642181,Klang,Klang,3,24325,2025-07-18 17:02:19,1,0.01,0.1,4.99,0.07,0.03,Normal,062/086,Common,Metal
+642182,Klinklang,Klinklang,3,24325,2025-07-22 12:30:24,1,0.01,0.16,4.99,0.15,0.05,Reverse Holofoil,063/086,Rare,Metal
+642182,Klinklang,Klinklang,3,24325,2025-07-22 12:30:24,1,0.01,0.1,4.99,0.07,0.06,Holofoil,063/086,Rare,Metal
+642191,Rufflet,Rufflet,3,24325,2025-07-18 17:02:26,1,0.02,0.15,4.99,0.12,0.11,Reverse Holofoil,077/086,Common,Colorless
+642191,Rufflet,Rufflet,3,24325,2025-07-18 17:02:26,1,0.01,0.1,4.99,0.07,0.03,Normal,077/086,Common,Colorless
+642192,Braviary,Braviary,3,24325,2025-07-18 17:02:28,1,0.1,0.19,4.99,0.18,0.16,Reverse Holofoil,078/086,Uncommon,Colorless
+642192,Braviary,Braviary,3,24325,2025-07-18 17:02:28,1,0.01,0.1,4.99,0.05,0.04,Normal,078/086,Uncommon,Colorless
+642261,Klink - 139/086,Klink 139 086,3,24325,2025-07-18 17:02:41,1,4,5.94,19.99,4.52,5.62,Holofoil,139/086,Illustration Rare,Metal
+642262,Klang - 140/086,Klang 140 086,3,24325,2025-07-18 17:02:41,1,3.25,4.82,20.98,3.77,9.99,Holofoil,140/086,Illustration Rare,Metal
+642263,Klinklang - 141/086,Klinklang 141 086,3,24325,2025-07-18 17:02:41,1,10.75,13.64,39.99,11.94,31.87,Holofoil,141/086,Illustration Rare,Metal
+642271,Rufflet - 154/086,Rufflet 154 086,3,24325,2025-07-18 17:02:44,1,4.02,7,24.95,5.32,,Holofoil,154/086,Illustration Rare,Colorless
+642272,Braviary - 155/086,Braviary 155 086,3,24325,2025-07-18 17:02:44,1,6.69,7.58,24.99,7.32,,Holofoil,155/086,Illustration Rare,Colorless
+642349,Klink (Master Ball Pattern),Klink Master Ball Pattern,3,24325,2025-07-18 17:02:18,0,0.85,1.19,12,1.28,,Holofoil,061/086,Common,Metal
+642350,Klang (Master Ball Pattern),Klang Master Ball Pattern,3,24325,2025-07-18 17:02:19,0,5,6.99,29.99,6.25,,Holofoil,062/086,Common,Metal
+642351,Klinklang (Master Ball Pattern),Klinklang Master Ball Pattern,3,24325,2025-07-25 18:38:49,0,9.49,11.88,49.99,11.78,,Holofoil,063/086,Rare,Metal
+642359,Rufflet (Master Ball Pattern),Rufflet Master Ball Pattern,3,24325,2025-07-18 17:02:26,0,2.17,4.19,18.73,3.59,,Holofoil,077/086,Common,Colorless
+642360,Braviary (Master Ball Pattern),Braviary Master Ball Pattern,3,24325,2025-08-08 17:37:13,0,2.42,3.86,17.99,3.52,,Holofoil,078/086,Uncommon,Colorless
+642421,Klink (Poke Ball Pattern),Klink Poke Ball Pattern,3,24325,2025-07-18 17:02:19,0,0.07,0.3,4.99,0.25,0.23,Holofoil,061/086,Common,Metal
+642422,Klang (Poke Ball Pattern),Klang Poke Ball Pattern,3,24325,2025-07-18 17:02:19,0,0.2,0.68,4.99,0.53,0.66,Holofoil,062/086,Common,Metal
+642423,Klinklang (Poke Ball Pattern),Klinklang Poke Ball Pattern,3,24325,2025-07-25 18:38:43,0,0.5,1.5,9.99,1.12,1.47,Holofoil,063/086,Rare,Metal
+642431,Rufflet (Poke Ball Pattern),Rufflet Poke Ball Pattern,3,24325,2025-07-18 17:02:26,0,0.45,0.7,5,0.61,0.61,Holofoil,077/086,Common,Colorless
+642432,Braviary (Poke Ball Pattern),Braviary Poke Ball Pattern,3,24325,2025-08-08 17:34:01,0,0.15,0.5,9.95,0.45,0.7,Holofoil,078/086,Uncommon,Colorless
+642450,Snivy,Snivy,3,24325,2025-07-18 17:01:48,1,0.01,0.1,4.99,0.07,0.03,Normal,001/086,Common,Grass
+642450,Snivy,Snivy,3,24325,2025-07-18 17:01:48,1,0.05,0.2,4.99,0.15,0.15,Reverse Holofoil,001/086,Common,Grass
+642451,Servine,Servine,3,24325,2025-07-18 17:01:49,1,0.01,0.11,4.99,0.11,0.04,Normal,002/086,Common,Grass
+642451,Servine,Servine,3,24325,2025-07-18 17:01:49,1,0.02,0.2,4.99,0.18,0.15,Reverse Holofoil,002/086,Common,Grass
+642452,Serperior ex,Serperior ex,3,24325,2025-07-18 17:01:50,1,0.1,0.55,10.09,0.57,0.54,Holofoil,003/086,Double Rare,Grass
+642453,Pansage,Pansage,3,24325,2025-07-18 17:01:50,1,0.05,0.15,4.99,0.14,0.1,Reverse Holofoil,004/086,Common,Grass
+642453,Pansage,Pansage,3,24325,2025-07-18 17:01:50,1,0.01,0.1,4.99,0.07,0.03,Normal,004/086,Common,Grass
+642454,Simisage,Simisage,3,24325,2025-07-18 17:01:50,1,0.1,0.2,4.99,0.21,0.14,Reverse Holofoil,005/086,Uncommon,Grass
+642454,Simisage,Simisage,3,24325,2025-07-18 17:01:50,1,0.01,0.1,4.99,0.07,0.04,Normal,005/086,Uncommon,Grass
+642455,Petilil,Petilil,3,24325,2025-07-18 17:01:51,1,0.01,0.1,4.99,0.08,0.04,Normal,006/086,Common,Grass
+642455,Petilil,Petilil,3,24325,2025-07-18 17:01:51,1,0.01,0.18,4.99,0.17,0.1,Reverse Holofoil,006/086,Common,Grass
+642456,Lilligant,Lilligant,3,24325,2025-07-18 17:01:51,1,0.01,0.1,4.99,0.08,0.05,Normal,007/086,Uncommon,Grass
+642456,Lilligant,Lilligant,3,24325,2025-07-18 17:01:51,1,0.09,0.22,4.99,0.24,0.1,Reverse Holofoil,007/086,Uncommon,Grass
+642457,Maractus,Maractus,3,24325,2025-07-18 17:01:51,1,0.03,0.16,12,0.11,0.11,Reverse Holofoil,008/086,Common,Grass
+642457,Maractus,Maractus,3,24325,2025-07-18 17:01:51,1,0.01,0.1,4.99,0.06,0.03,Normal,008/086,Common,Grass
+642458,Karrablast,Karrablast,3,24325,2025-07-18 17:01:52,1,0.01,0.1,4.99,0.04,0.03,Normal,009/086,Common,Grass
+642458,Karrablast,Karrablast,3,24325,2025-07-18 17:01:52,1,0.05,0.17,4.99,0.13,0.14,Reverse Holofoil,009/086,Common,Grass
+642459,Foongus,Foongus,3,24325,2025-07-18 17:01:52,1,0.01,0.1,4.99,0.06,0.04,Normal,010/086,Common,Grass
+642459,Foongus,Foongus,3,24325,2025-07-18 17:01:52,1,0.05,0.15,4.99,0.13,0.12,Reverse Holofoil,010/086,Common,Grass
+642460,Amoonguss,Amoonguss,3,24325,2025-07-18 17:01:53,1,0.12,0.3,4.99,0.27,0.26,Reverse Holofoil,011/086,Uncommon,Grass
+642460,Amoonguss,Amoonguss,3,24325,2025-07-18 17:01:53,1,0.01,0.1,4.99,0.05,0.05,Normal,011/086,Uncommon,Grass
+642461,Victini,Victini,3,24325,2025-07-18 17:01:53,1,0.05,0.22,4.99,0.22,0.2,Reverse Holofoil,012/086,Rare,Fire
+642461,Victini,Victini,3,24325,2025-07-18 17:01:53,1,0.01,0.15,4.99,0.14,0.06,Holofoil,012/086,Rare,Fire
+642462,Darumaka,Darumaka,3,24325,2025-07-18 17:01:54,1,0.05,0.15,4.99,0.11,0.1,Reverse Holofoil,013/086,Common,Fire
+642462,Darumaka,Darumaka,3,24325,2025-07-18 17:01:54,1,0.01,0.09,4.99,0.06,0.03,Normal,013/086,Common,Fire
+642463,Darmanitan,Darmanitan,3,24325,2025-07-18 17:01:54,1,0.29,0.46,4.99,0.42,0.33,Reverse Holofoil,014/086,Uncommon,Fire
+642463,Darmanitan,Darmanitan,3,24325,2025-07-18 17:01:54,1,0.01,0.1,4.99,0.05,0.05,Normal,014/086,Uncommon,Fire
+642467,Larvesta,Larvesta,3,24325,2025-07-18 17:01:54,1,0.01,0.1,4.99,0.07,0.05,Normal,015/086,Common,Fire
+642467,Larvesta,Larvesta,3,24325,2025-07-18 17:01:54,1,0.05,0.19,4.99,0.15,0.15,Reverse Holofoil,015/086,Common,Fire
+642468,Volcarona,Volcarona,3,24325,2025-07-18 17:01:55,1,0.02,0.13,4.99,0.12,0.09,Holofoil,016/086,Rare,Fire
+642468,Volcarona,Volcarona,3,24325,2025-07-18 17:01:55,1,0.1,0.25,4.99,0.21,0.22,Reverse Holofoil,016/086,Rare,Fire
+642469,Panpour,Panpour,3,24325,2025-07-23 12:44:33,1,0.04,0.15,8.97,0.13,0.13,Reverse Holofoil,017/086,Common,Water
+642469,Panpour,Panpour,3,24325,2025-07-23 12:44:33,1,0.01,0.09,4.99,0.05,0.03,Normal,017/086,Common,Water
+642470,Simipour,Simipour,3,24325,2025-07-18 17:01:56,1,0.1,0.54,4.99,0.46,0.33,Reverse Holofoil,018/086,Uncommon,Water
+642470,Simipour,Simipour,3,24325,2025-07-18 17:01:56,1,0.01,0.1,15.1,0.08,0.05,Normal,018/086,Uncommon,Water
+642471,Tympole,Tympole,3,24325,2025-07-18 17:01:56,1,0.05,0.15,4.99,0.13,0.1,Reverse Holofoil,019/086,Common,Water
+642471,Tympole,Tympole,3,24325,2025-07-18 17:01:56,1,0.01,0.1,4.99,0.06,0.03,Normal,019/086,Common,Water
+642472,Palpitoad,Palpitoad,3,24325,2025-07-18 17:01:57,1,0.05,0.16,4.99,0.14,0.13,Reverse Holofoil,020/086,Common,Water
+642472,Palpitoad,Palpitoad,3,24325,2025-07-18 17:01:57,1,0.01,0.1,4.99,0.05,0.03,Normal,020/086,Common,Water
+642473,Seismitoad,Seismitoad,3,24325,2025-07-18 17:01:57,1,0.01,0.1,4.99,0.07,0.05,Normal,021/086,Uncommon,Water
+642473,Seismitoad,Seismitoad,3,24325,2025-07-18 17:01:57,1,0.1,0.2,4.99,0.17,0.18,Reverse Holofoil,021/086,Uncommon,Water
+642474,Tirtouga,Tirtouga,3,24325,2025-07-18 17:01:58,1,0.15,0.36,4.99,0.31,0.27,Reverse Holofoil,022/086,Uncommon,Water
+642474,Tirtouga,Tirtouga,3,24325,2025-07-18 17:01:58,1,0.01,0.15,4.99,0.11,0.05,Normal,022/086,Uncommon,Water
+642475,Carracosta,Carracosta,3,24325,2025-07-18 17:01:58,1,0.09,0.26,4.99,0.25,0.2,Reverse Holofoil,023/086,Rare,Water
+642475,Carracosta,Carracosta,3,24325,2025-07-18 17:01:58,1,0.02,0.14,4.99,0.09,0.08,Holofoil,023/086,Rare,Water
+642476,Alomomola,Alomomola,3,24325,2025-07-18 17:01:59,1,0.11,0.29,4.99,0.29,0.27,Reverse Holofoil,024/086,Uncommon,Water
+642476,Alomomola,Alomomola,3,24325,2025-07-18 17:01:59,1,0.02,0.1,4.99,0.07,0.05,Normal,024/086,Uncommon,Water
+642477,Cubchoo,Cubchoo,3,24325,2025-07-18 17:01:59,1,0.01,0.1,4.99,0.09,0.04,Normal,025/086,Common,Water
+642477,Cubchoo,Cubchoo,3,24325,2025-07-18 17:01:59,1,0.02,0.15,4.99,0.12,0.1,Reverse Holofoil,025/086,Common,Water
+642478,Beartic,Beartic,3,24325,2025-07-18 17:02:00,1,0.1,0.34,4.99,0.29,0.28,Reverse Holofoil,026/086,Rare,Water
+642478,Beartic,Beartic,3,24325,2025-07-18 17:02:00,1,0.01,0.12,4.99,0.12,0.07,Holofoil,026/086,Rare,Water
+642479,Cryogonal,Cryogonal,3,24325,2025-07-18 17:02:00,1,0.05,0.2,4.99,0.16,0.1,Reverse Holofoil,027/086,Uncommon,Water
+642479,Cryogonal,Cryogonal,3,24325,2025-07-18 17:02:00,1,0.01,0.1,4.99,0.07,0.05,Normal,027/086,Uncommon,Water
+642480,Kyurem ex,Kyurem ex,3,24325,2025-07-18 17:02:01,1,0.1,0.5,45,0.46,0.38,Holofoil,028/086,Double Rare,Water
+642481,Emolga,Emolga,3,24325,2025-07-18 17:02:01,1,0.02,0.15,4.99,0.12,0.1,Reverse Holofoil,029/086,Common,Lightning
+642481,Emolga,Emolga,3,24325,2025-07-18 17:02:01,1,0.01,0.1,4.99,0.06,0.03,Normal,029/086,Common,Lightning
+642482,Tynamo,Tynamo,3,24325,2025-07-18 17:02:02,1,0.1,0.38,4.99,0.31,0.28,Reverse Holofoil,030/086,Common,Lightning
+642482,Tynamo,Tynamo,3,24325,2025-07-18 17:02:02,1,0.09,0.27,4.99,0.23,0.17,Normal,030/086,Common,Lightning
+642483,Eelektrik,Eelektrik,3,24325,2025-07-18 17:02:02,1,0.01,0.4,90,0.29,0.27,Normal,031/086,Uncommon,Lightning
+642483,Eelektrik,Eelektrik,3,24325,2025-07-18 17:02:02,1,0.25,1,7.99,0.83,0.83,Reverse Holofoil,031/086,Uncommon,Lightning
+642484,Eelektross,Eelektross,3,24325,2025-07-18 17:02:03,1,0.01,0.1,4.99,0.08,0.05,Normal,032/086,Uncommon,Lightning
+642484,Eelektross,Eelektross,3,24325,2025-07-18 17:02:03,1,0.18,0.45,4.99,0.37,0.2,Reverse Holofoil,032/086,Uncommon,Lightning
+642485,Thundurus,Thundurus,3,24325,2025-07-18 17:02:03,1,0.01,0.11,4.99,0.09,0.05,Holofoil,033/086,Rare,Lightning
+642485,Thundurus,Thundurus,3,24325,2025-07-18 17:02:03,1,0.06,0.21,4.99,0.18,0.18,Reverse Holofoil,033/086,Rare,Lightning
+642486,Zekrom ex,Zekrom ex,3,24325,2025-07-18 17:02:04,1,0.2,1.49,13.95,0.85,0.88,Holofoil,034/086,Double Rare,Lightning
+642487,Munna,Munna,3,24325,2025-07-18 17:02:04,1,0.01,0.23,4.99,0.2,0.1,Reverse Holofoil,035/086,Common,Psychic
+642487,Munna,Munna,3,24325,2025-07-18 17:02:04,1,0.01,0.1,4.99,0.05,0.03,Normal,035/086,Common,Psychic
+642488,Musharna,Musharna,3,24325,2025-07-18 17:02:04,1,0.11,0.24,4.99,0.22,0.19,Reverse Holofoil,036/086,Uncommon,Psychic
+642488,Musharna,Musharna,3,24325,2025-07-18 17:02:04,1,0.01,0.1,4.99,0.08,0.05,Normal,036/086,Uncommon,Psychic
+642489,Solosis,Solosis,3,24325,2025-07-22 12:33:27,1,0.05,0.15,4.99,0.14,0.12,Reverse Holofoil,037/086,Common,Psychic
+642489,Solosis,Solosis,3,24325,2025-07-22 12:33:27,1,0.01,0.1,4.99,0.07,0.03,Normal,037/086,Common,Psychic
+642490,Duosion,Duosion,3,24325,2025-07-18 17:02:06,1,0.05,0.18,4.99,0.12,0.11,Reverse Holofoil,038/086,Common,Psychic
+642490,Duosion,Duosion,3,24325,2025-07-18 17:02:06,1,0.01,0.1,4.99,0.06,0.03,Normal,038/086,Common,Psychic
+642491,Reuniclus,Reuniclus,3,24325,2025-07-21 16:26:16,1,0.09,0.2,60.84,0.17,0.16,Reverse Holofoil,039/086,Uncommon,Psychic
+642491,Reuniclus,Reuniclus,3,24325,2025-07-21 16:26:16,1,0.01,0.1,4.99,0.05,0.05,Normal,039/086,Uncommon,Psychic
+642492,Elgyem,Elgyem,3,24325,2025-07-18 17:02:06,1,0.02,0.1,4.99,0.09,0.04,Normal,040/086,Common,Psychic
+642492,Elgyem,Elgyem,3,24325,2025-07-18 17:02:06,1,0.05,0.18,4.99,0.16,0.07,Reverse Holofoil,040/086,Common,Psychic
+642493,Beheeyem,Beheeyem,3,24325,2025-07-18 17:02:07,1,0.02,0.31,4.99,0.3,0.29,Reverse Holofoil,041/086,Uncommon,Psychic
+642493,Beheeyem,Beheeyem,3,24325,2025-07-18 17:02:07,1,0.01,0.1,4.99,0.04,0.04,Normal,041/086,Uncommon,Psychic
+642494,Golett,Golett,3,24325,2025-07-18 17:02:07,1,0.02,0.13,4.99,0.11,0.05,Reverse Holofoil,042/086,Common,Psychic
+642494,Golett,Golett,3,24325,2025-07-18 17:02:07,1,0.01,0.1,4.99,0.08,0.03,Normal,042/086,Common,Psychic
+642495,Golurk,Golurk,3,24325,2025-07-18 19:00:41,1,0.09,0.26,4.99,0.24,0.2,Reverse Holofoil,043/086,Uncommon,Psychic
+642495,Golurk,Golurk,3,24325,2025-07-18 19:00:41,1,0.02,0.1,4.99,0.08,0.05,Normal,043/086,Uncommon,Psychic
+642496,Meloetta ex,Meloetta ex,3,24325,2025-07-18 17:02:08,0,0.08,0.53,19.98,0.35,0.35,Holofoil,044/086,Double Rare,Psychic
+642497,Drilbur,Drilbur,3,24325,2025-07-21 19:43:08,1,0.02,0.13,4.99,0.1,,Holofoil,045/086,Common,Fighting
+642497,Drilbur,Drilbur,3,24325,2025-07-21 19:43:08,1,0.01,0.08,4.99,0.04,0.03,Normal,045/086,Common,Fighting
+642497,Drilbur,Drilbur,3,24325,2025-07-21 19:43:08,1,0.04,0.17,4.99,0.16,0.12,Reverse Holofoil,045/086,Common,Fighting
+642498,Excadrill ex,Excadrill ex,3,24325,2025-07-18 17:02:09,1,0.04,0.49,5.25,0.42,0.39,Holofoil,046/086,Double Rare,Fighting
+642499,Timburr,Timburr,3,24325,2025-07-18 17:02:09,1,0.01,0.1,4.99,0.06,0.03,Normal,047/086,Common,Fighting
+642499,Timburr,Timburr,3,24325,2025-07-18 17:02:09,1,0.04,0.21,4.99,0.17,0.17,Reverse Holofoil,047/086,Common,Fighting
+642500,Gurdurr,Gurdurr,3,24325,2025-07-22 12:34:26,1,0.01,0.08,4.99,0.06,0.03,Normal,048/086,Common,Fighting
+642500,Gurdurr,Gurdurr,3,24325,2025-07-22 12:34:26,1,0.05,0.15,4.99,0.12,0.13,Reverse Holofoil,048/086,Common,Fighting
+642500,Gurdurr,Gurdurr,3,24325,2025-07-22 12:34:26,1,0.03,0.11,4.99,0.09,,Holofoil,048/086,Common,Fighting
+642501,Conkeldurr,Conkeldurr,3,24325,2025-07-18 17:02:11,1,0.19,0.38,4.99,0.33,0.19,Reverse Holofoil,049/086,Rare,Fighting
+642501,Conkeldurr,Conkeldurr,3,24325,2025-07-18 17:02:11,1,0.01,0.11,4.99,0.1,0.07,Holofoil,049/086,Rare,Fighting
+642502,Throh,Throh,3,24325,2025-07-18 17:02:12,1,0.01,0.1,4.99,0.06,0.05,Normal,050/086,Uncommon,Fighting
+642502,Throh,Throh,3,24325,2025-07-18 17:02:12,1,0.1,0.25,30,0.24,0.24,Reverse Holofoil,050/086,Uncommon,Fighting
+642503,Dwebble,Dwebble,3,24325,2025-07-18 17:02:12,1,0.01,0.1,4.99,0.05,0.04,Normal,051/086,Common,Fighting
+642503,Dwebble,Dwebble,3,24325,2025-07-18 17:02:12,1,0.05,0.15,4.99,0.12,0.05,Reverse Holofoil,051/086,Common,Fighting
+642504,Crustle,Crustle,3,24325,2025-07-18 17:02:13,1,0.01,0.1,4.99,0.04,0.04,Normal,052/086,Uncommon,Fighting
+642504,Crustle,Crustle,3,24325,2025-07-18 17:02:13,1,0.08,0.19,4.99,0.16,0.16,Reverse Holofoil,052/086,Uncommon,Fighting
+642505,Landorus,Landorus,3,24325,2025-07-18 17:02:13,1,0.01,0.1,4.99,0.09,0.05,Holofoil,053/086,Rare,Fighting
+642505,Landorus,Landorus,3,24325,2025-07-18 17:02:13,1,0.04,0.21,4.99,0.21,0.19,Reverse Holofoil,053/086,Rare,Fighting
+642506,Venipede,Venipede,3,24325,2025-07-18 17:02:14,1,0.01,0.1,4.99,0.06,0.03,Normal,054/086,Common,Darkness
+642506,Venipede,Venipede,3,24325,2025-07-18 17:02:14,1,0.01,0.16,4.99,0.13,0.12,Reverse Holofoil,054/086,Common,Darkness
+642507,Whirlipede,Whirlipede,3,24325,2025-07-18 17:02:15,1,0.1,0.19,4.99,0.16,0.14,Reverse Holofoil,055/086,Common,Darkness
+642507,Whirlipede,Whirlipede,3,24325,2025-07-18 17:02:15,1,0.01,0.1,4.99,0.04,0.04,Normal,055/086,Common,Darkness
+642508,Scolipede,Scolipede,3,24325,2025-07-22 12:49:12,1,0.1,0.25,4.99,0.25,0.21,Reverse Holofoil,056/086,Uncommon,Darkness
+642508,Scolipede,Scolipede,3,24325,2025-07-22 12:49:12,1,0.01,0.1,4.99,0.06,0.05,Normal,056/086,Uncommon,Darkness
+642509,Sandile,Sandile,3,24325,2025-07-18 17:02:16,1,0.03,0.14,4.99,0.11,0.1,Reverse Holofoil,057/086,Common,Darkness
+642509,Sandile,Sandile,3,24325,2025-07-18 17:02:16,1,0.01,0.1,4.99,0.07,0.03,Normal,057/086,Common,Darkness
+642510,Krokorok,Krokorok,3,24325,2025-07-18 17:02:17,1,0.01,0.1,4.99,0.06,0.03,Normal,058/086,Common,Darkness
+642510,Krokorok,Krokorok,3,24325,2025-07-18 17:02:17,1,0.07,0.2,4.99,0.16,0.15,Reverse Holofoil,058/086,Common,Darkness
+642511,Krookodile,Krookodile,3,24325,2025-07-22 12:49:51,1,0.01,0.1,4.99,0.08,0.05,Normal,059/086,Uncommon,Darkness
+642511,Krookodile,Krookodile,3,24325,2025-07-22 12:49:51,1,0.13,0.2,4.99,0.18,0.19,Reverse Holofoil,059/086,Uncommon,Darkness
+642514,Escavalier,Escavalier,3,24325,2025-07-18 17:02:18,1,0.01,0.1,4.99,0.08,0.03,Normal,060/086,Common,Metal
+642514,Escavalier,Escavalier,3,24325,2025-07-18 17:02:18,1,0.07,0.17,4.99,0.14,0.13,Reverse Holofoil,060/086,Common,Metal
+642515,Pawniard,Pawniard,3,24325,2025-07-18 17:02:20,1,0.03,0.15,4.99,0.11,0.09,Reverse Holofoil,064/086,Common,Metal
+642515,Pawniard,Pawniard,3,24325,2025-07-18 17:02:20,1,0.01,0.1,5,0.05,0.03,Normal,064/086,Common,Metal
+642516,Bisharp,Bisharp,3,24325,2025-07-22 12:53:07,1,0.05,0.21,4.99,0.17,0.16,Reverse Holofoil,065/086,Uncommon,Metal
+642516,Bisharp,Bisharp,3,24325,2025-07-22 12:53:07,1,0.01,0.08,4.99,0.05,0.05,Normal,065/086,Uncommon,Metal
+642517,Cobalion,Cobalion,3,24325,2025-07-18 17:02:21,1,0.01,0.11,4.99,0.09,0.07,Holofoil,066/086,Rare,Metal
+642517,Cobalion,Cobalion,3,24325,2025-07-18 17:02:21,1,0.07,0.29,4.99,0.24,0.23,Reverse Holofoil,066/086,Rare,Metal
+642518,Genesect ex,Genesect ex,3,24325,2025-07-18 17:02:21,1,1.85,3.53,17.99,2.62,2.43,Holofoil,067/086,Double Rare,Metal
+642519,Axew,Axew,3,24325,2025-07-18 17:02:21,1,0.01,0.1,4.99,0.05,0.03,Normal,068/086,Common,Dragon
+642519,Axew,Axew,3,24325,2025-07-18 17:02:21,1,0.02,0.18,4.99,0.16,0.13,Reverse Holofoil,068/086,Common,Dragon
+642520,Fraxure,Fraxure,3,24325,2025-07-18 17:02:22,1,0.01,0.09,4.99,0.05,0.03,Normal,069/086,Common,Dragon
+642520,Fraxure,Fraxure,3,24325,2025-07-18 17:02:22,1,0.05,0.18,4.99,0.14,0.12,Reverse Holofoil,069/086,Common,Dragon
+642521,Haxorus,Haxorus,3,24325,2025-07-18 17:02:23,1,0.02,0.15,4.99,0.12,0.1,Holofoil,070/086,Rare,Dragon
+642521,Haxorus,Haxorus,3,24325,2025-07-18 17:02:23,1,0.14,0.42,4.99,0.35,0.2,Reverse Holofoil,070/086,Rare,Dragon
+642522,Pidove,Pidove,3,24325,2025-07-18 17:02:23,1,0.01,0.1,4.99,0.08,0.03,Normal,071/086,Common,Colorless
+642522,Pidove,Pidove,3,24325,2025-07-18 17:02:23,1,0.01,0.15,4.99,0.13,0.11,Reverse Holofoil,071/086,Common,Colorless
+642523,Tranquill,Tranquill,3,24325,2025-07-18 17:02:24,1,0.02,0.1,4.99,0.06,0.03,Normal,072/086,Common,Colorless
+642523,Tranquill,Tranquill,3,24325,2025-07-18 17:02:24,1,0.03,0.15,4.99,0.12,0.1,Reverse Holofoil,072/086,Common,Colorless
+642524,Unfezant,Unfezant,3,24325,2025-07-22 12:54:01,1,0.01,0.1,4.99,0.08,0.05,Normal,073/086,Uncommon,Colorless
+642524,Unfezant,Unfezant,3,24325,2025-07-22 12:54:01,1,0.14,0.25,4.99,0.21,0.21,Reverse Holofoil,073/086,Uncommon,Colorless
+642525,Audino,Audino,3,24325,2025-07-18 17:02:25,1,0.02,0.1,4.99,0.08,0.05,Normal,074/086,Common,Colorless
+642525,Audino,Audino,3,24325,2025-07-18 17:02:25,1,0.05,0.23,4.99,0.19,0.17,Reverse Holofoil,074/086,Common,Colorless
+642526,Minccino,Minccino,3,24325,2025-07-18 17:02:25,1,0.04,0.2,35,0.19,0.18,Reverse Holofoil,075/086,Common,Colorless
+642526,Minccino,Minccino,3,24325,2025-07-18 17:02:25,1,0.01,0.1,4.99,0.1,0.05,Normal,075/086,Common,Colorless
+642527,Cinccino,Cinccino,3,24325,2025-07-22 12:54:34,1,0.12,0.23,4.99,0.23,0.23,Reverse Holofoil,076/086,Uncommon,Colorless
+642527,Cinccino,Cinccino,3,24325,2025-07-22 12:54:34,1,0.01,0.1,4.99,0.06,0.05,Normal,076/086,Uncommon,Colorless
+642528,Energy Coin,Energy Coin,3,24325,2025-07-18 17:02:29,1,0.01,0.1,4.99,0.06,0.05,Normal,081/086,Uncommon,Trainer - Item
+642528,Energy Coin,Energy Coin,3,24325,2025-07-18 17:02:29,1,0.02,0.25,4.99,0.24,0.24,Reverse Holofoil,081/086,Uncommon,Trainer - Item
+642529,Antique Cover Fossil,Antique Cover Fossil,3,24325,2025-07-18 17:02:28,1,0.01,0.1,4.99,0.06,0.05,Normal,080/086,Common,Trainer - Item
+642529,Antique Cover Fossil,Antique Cover Fossil,3,24325,2025-07-18 17:02:28,1,0.02,0.16,4.99,0.12,0.12,Reverse Holofoil,080/086,Common,Trainer - Item
+642530,Pokegear 3.0,Pokegear 30,3,24325,2025-07-18 17:02:30,1,0.01,0.25,5.95,0.23,0.16,Normal,084/086,Uncommon,Trainer - Item
+642530,Pokegear 3.0,Pokegear 30,3,24325,2025-07-18 17:02:30,1,0.05,0.49,4.99,0.4,0.39,Reverse Holofoil,084/086,Uncommon,Trainer - Item
+642531,Air Balloon,Air Balloon,3,24325,2025-07-18 17:02:28,1,1,2.02,9.99,1.83,2.21,Reverse Holofoil,079/086,Uncommon,Trainer - Item
+642531,Air Balloon,Air Balloon,3,24325,2025-07-18 17:02:28,1,0.62,1.5,7.99,1.56,1.94,Normal,079/086,Uncommon,Trainer - Item
+642532,N's Plan,Ns Plan,3,24325,2025-07-21 11:44:32,1,0.1,0.51,5,0.41,0.37,Reverse Holofoil,083/086,Uncommon,Trainer - Supporter
+642532,N's Plan,Ns Plan,3,24325,2025-07-21 11:44:32,1,0.01,0.17,4.99,0.16,0.11,Normal,083/086,Uncommon,Trainer - Supporter
+642533,Professor's Research,Professors Research,3,24325,2025-07-21 12:27:06,1,0.01,0.1,4.99,0.09,0.05,Normal,085/086,Uncommon,Trainer - Supporter
+642533,Professor's Research,Professors Research,3,24325,2025-07-21 12:27:06,1,0.01,0.18,4.99,0.16,0.15,Reverse Holofoil,085/086,Uncommon,Trainer - Supporter
+642534,Fennel,Fennel,3,24325,2025-07-18 17:02:29,1,0.01,0.12,4.99,0.09,0.05,Normal,082/086,Uncommon,Trainer - Supporter
+642534,Fennel,Fennel,3,24325,2025-07-18 17:02:29,1,0.1,0.24,4.99,0.23,0.24,Reverse Holofoil,082/086,Uncommon,Trainer - Supporter
+642535,Prism Energy,Prism Energy,3,24325,2025-07-18 17:02:30,1,0.05,0.41,4.99,0.34,0.29,Normal,086/086,Uncommon,Special Rainbow Energy
+642535,Prism Energy,Prism Energy,3,24325,2025-07-18 17:02:30,1,0.16,0.55,4.99,0.48,0.43,Reverse Holofoil,086/086,Uncommon,Special Rainbow Energy
+642536,Snivy - 087/086,Snivy 087 086,3,24325,2025-07-18 17:02:31,1,20.17,23,59.99,20.64,,Holofoil,087/086,Illustration Rare,Grass
+642537,Servine - 088/086,Servine 088 086,3,24325,2025-07-18 17:02:31,1,11.2,13.02,39,12.06,12.95,Holofoil,088/086,Illustration Rare,Grass
+642538,Pansage - 089/086,Pansage 089 086,3,24325,2025-07-18 17:02:31,1,6.5,8,24.99,7.24,6.67,Holofoil,089/086,Illustration Rare,Grass
+642539,Simisage - 090/086,Simisage 090 086,3,24325,2025-07-18 17:02:31,1,5,7.77,40,6.48,7.81,Holofoil,090/086,Illustration Rare,Grass
+642540,Petilil - 091/086,Petilil 091 086,3,24325,2025-07-18 17:02:31,1,6.24,9.27,34.99,9.07,9.17,Holofoil,091/086,Illustration Rare,Grass
+642541,Lilligant - 092/086,Lilligant 092 086,3,24325,2025-07-18 17:02:32,1,16.5,19.24,59.99,18.47,,Holofoil,092/086,Illustration Rare,Grass
+642542,Maractus - 093/086,Maractus 093 086,3,24325,2025-07-18 17:02:32,0,2.96,4.99,14.99,3.32,2.96,Holofoil,093/086,Illustration Rare,Grass
+642543,Karrablast - 094/086,Karrablast 094 086,3,24325,2025-07-18 17:02:32,1,12.19,15.09,39.99,13.31,13.47,Holofoil,094/086,Illustration Rare,Grass
+642544,Foongus - 095/086,Foongus 095 086,3,24325,2025-07-18 17:02:32,1,6.49,8.5,49.95,7.08,,Holofoil,095/086,Illustration Rare,Grass
+642545,Amoonguss - 096/086,Amoonguss 096 086,3,24325,2025-07-18 17:02:32,1,12,16.46,39.99,14.92,19.38,Holofoil,096/086,Illustration Rare,Grass
+642546,Victini - 171/086,Victini 171 086,3,24325,2025-07-18 17:02:47,1,417.99,486.42,1299.99,437.7,,Holofoil,171/086,Black White Rare,Fire
+642547,Darumaka - 097/086,Darumaka 097 086,3,24325,2025-07-18 17:02:32,1,6.5,8.83,29.99,7.88,,Holofoil,097/086,Illustration Rare,Fire
+642548,Darmanitan - 098/086,Darmanitan 098 086,3,24325,2025-07-18 17:02:33,1,5.55,7.99,24.99,7.64,8.84,Holofoil,098/086,Illustration Rare,Fire
+642552,Larvesta - 099/086,Larvesta 099 086,3,24325,2025-07-18 17:02:33,1,8.47,10.99,34.99,9.13,10.99,Holofoil,099/086,Illustration Rare,Fire
+642553,Volcarona - 100/086,Volcarona 100 086,3,24325,2025-07-18 17:02:33,1,33.99,37.48,69.99,25.76,,Holofoil,100/086,Illustration Rare,Fire
+642554,Panpour - 101/086,Panpour 101 086,3,24325,2025-07-18 17:02:33,1,5.42,6.69,24.99,6.53,7.35,Holofoil,101/086,Illustration Rare,Water
+642555,Simipour - 102/086,Simipour 102 086,3,24325,2025-07-18 17:02:33,1,7,8.88,49.95,7.5,7.5,Holofoil,102/086,Illustration Rare,Water
+642556,Tympole - 103/086,Tympole 103 086,3,24325,2025-07-18 17:02:34,1,6,7,29.99,6.14,8.99,Holofoil,103/086,Illustration Rare,Water
+642557,Palpitoad - 104/086,Palpitoad 104 086,3,24325,2025-07-18 17:02:34,1,5,7,24.99,6.26,,Holofoil,104/086,Illustration Rare,Water
+642558,Seismitoad - 105/086,Seismitoad 105 086,3,24325,2025-07-18 17:02:34,1,189.4,205.31,499.99,185.12,,Holofoil,105/086,Illustration Rare,Water
+642559,Tirtouga - 106/086,Tirtouga 106 086,3,24325,2025-07-18 17:02:34,1,12.5,15,39.99,13.99,13.85,Holofoil,106/086,Illustration Rare,Water
+642560,Carracosta - 107/086,Carracosta 107 086,3,24325,2025-07-18 17:02:34,1,7,8.5,34.95,7.76,9.39,Holofoil,107/086,Illustration Rare,Water
+642561,Alomomola - 108/086,Alomomola 108 086,3,24325,2025-07-18 17:02:34,1,8.98,11.51,34.99,9.95,,Holofoil,108/086,Illustration Rare,Water
+642562,Cubchoo - 109/086,Cubchoo 109 086,3,24325,2025-07-18 17:02:35,1,8.99,10.94,34.99,9.59,11.5,Holofoil,109/086,Illustration Rare,Water
+642563,Beartic - 110/086,Beartic 110 086,3,24325,2025-07-18 17:02:35,1,6,8.24,29.99,7.54,7.98,Holofoil,110/086,Illustration Rare,Water
+642564,Cryogonal - 111/086,Cryogonal 111 086,3,24325,2025-07-18 17:02:35,1,4.89,6.49,24.99,5.55,,Holofoil,111/086,Illustration Rare,Water
+642565,Emolga - 112/086,Emolga 112 086,3,24325,2025-07-18 17:02:36,1,9.5,13.59,29.99,11.29,13.59,Holofoil,112/086,Illustration Rare,Lightning
+642566,Tynamo - 113/086,Tynamo 113 086,3,24325,2025-07-18 17:02:36,1,11.25,14.13,39.99,13.29,15.46,Holofoil,113/086,Illustration Rare,Lightning
+642567,Eelektrik - 114/086,Eelektrik 114 086,3,24325,2025-07-18 17:02:36,1,23,28.51,69.99,25.69,,Holofoil,114/086,Illustration Rare,Lightning
+642568,Eelektross - 115/086,Eelektross 115 086,3,24325,2025-07-18 17:02:36,1,10,16.27,59.99,11.77,,Holofoil,115/086,Illustration Rare,Lightning
+642570,Munna - 116/086,Munna 116 086,3,24325,2025-07-18 17:02:36,1,7.08,9.5,29.99,8.56,9.99,Holofoil,116/086,Illustration Rare,Psychic
+642571,Musharna - 117/086,Musharna 117 086,3,24325,2025-07-18 17:02:37,1,5,6.79,24.99,5.82,,Holofoil,117/086,Illustration Rare,Psychic
+642572,Solosis - 118/086,Solosis 118 086,3,24325,2025-07-18 17:02:37,1,10.96,12.25,49.95,12.11,49.95,Holofoil,118/086,Illustration Rare,Psychic
+642573,Duosion - 119/086,Duosion 119 086,3,24325,2025-07-18 17:02:37,1,8.15,10.16,34.99,9.42,,Holofoil,119/086,Illustration Rare,Psychic
+642575,Elgyem - 120/086,Elgyem 120 086,3,24325,2025-07-18 17:02:37,1,7,8,29.99,7.18,7.5,Holofoil,120/086,Illustration Rare,Psychic
+642576,Beheeyem - 121/086,Beheeyem 121 086,3,24325,2025-07-18 17:02:37,1,4.59,6,24.99,5.44,,Holofoil,121/086,Illustration Rare,Psychic
+642577,Golett - 122/086,Golett 122 086,3,24325,2025-07-18 17:02:38,1,5,6.77,24.99,5.64,6.84,Holofoil,122/086,Illustration Rare,Psychic
+642578,Golurk - 123/086,Golurk 123 086,3,24325,2025-07-18 17:02:38,1,5.8,7.18,24.99,6.32,8.2,Holofoil,123/086,Illustration Rare,Psychic
+642579,Drilbur - 124/086,Drilbur 124 086,3,24325,2025-07-18 17:02:38,1,3.9,5.94,24.99,5.29,5.99,Holofoil,124/086,Illustration Rare,Fighting
+642580,Timburr - 125/086,Timburr 125 086,3,24325,2025-07-18 17:02:38,1,5.5,7.92,24.99,6.71,,Holofoil,125/086,Illustration Rare,Fighting
+642581,Gurdurr - 126/086,Gurdurr 126 086,3,24325,2025-07-18 17:02:38,1,4.6,6.05,24.99,5.93,8.83,Holofoil,126/086,Illustration Rare,Fighting
+642582,Conkeldurr - 127/086,Conkeldurr 127 086,3,24325,2025-07-18 17:02:39,1,13.58,16.61,39.99,14.96,14.94,Holofoil,127/086,Illustration Rare,Fighting
+642583,Throh - 128/086,Throh 128 086,3,24325,2025-07-18 17:02:39,1,3.5,6.55,24.99,5.84,5.81,Holofoil,128/086,Illustration Rare,Fighting
+642584,Dwebble - 129/086,Dwebble 129 086,3,24325,2025-07-18 17:02:39,1,20.65,27.49,59.99,20.62,29.99,Holofoil,129/086,Illustration Rare,Fighting
+642585,Crustle - 130/086,Crustle 130 086,3,24325,2025-07-18 17:02:39,1,4.25,5.83,24.99,5.24,,Holofoil,130/086,Illustration Rare,Fighting
+642586,Landorus - 131/086,Landorus 131 086,3,24325,2025-07-18 17:02:39,1,24.27,38.62,69.99,24.43,,Holofoil,131/086,Illustration Rare,Fighting
+642587,Venipede - 132/086,Venipede 132 086,3,24325,2025-07-18 17:02:39,1,5.18,6.5,24.99,6.18,6.25,Holofoil,132/086,Illustration Rare,Darkness
+642588,Whirlipede - 133/086,Whirlipede 133 086,3,24325,2025-07-18 17:02:39,1,4.5,6,20,5.92,,Holofoil,133/086,Illustration Rare,Darkness
+642589,Scolipede - 134/086,Scolipede 134 086,3,24325,2025-07-18 17:02:40,1,14.92,18,49.99,16.62,14.99,Holofoil,134/086,Illustration Rare,Darkness
+642590,Sandile - 135/086,Sandile 135 086,3,24325,2025-07-18 17:02:40,1,7,9.84,30,8.44,12.82,Holofoil,135/086,Illustration Rare,Darkness
+642591,Krokorok - 136/086,Krokorok 136 086,3,24325,2025-07-18 17:02:40,1,5.4,7.24,24.99,6.21,5.4,Holofoil,136/086,Illustration Rare,Darkness
+642592,Krookodile - 137/086,Krookodile 137 086,3,24325,2025-07-18 17:02:40,1,33.3,36,89.99,32.95,37.79,Holofoil,137/086,Illustration Rare,Darkness
+642595,Escavalier - 138/086,Escavalier 138 086,3,24325,2025-07-18 17:02:40,1,9,12.22,34.99,10.63,,Holofoil,138/086,Illustration Rare,Metal
+642596,Pawniard - 142/086,Pawniard 142 086,3,24325,2025-07-23 15:39:26,1,4,6.53,34.95,5.05,5.63,Holofoil,142/086,Illustration Rare,Metal
+642597,Bisharp - 143/086,Bisharp 143 086,3,24325,2025-07-18 17:02:42,1,7,9.01,29.99,8.25,9.25,Holofoil,143/086,Illustration Rare,Metal
+642598,Cobalion - 144/086,Cobalion 144 086,3,24325,2025-07-18 17:02:42,1,16.17,20.54,49.99,19.78,,Holofoil,144/086,Illustration Rare,Metal
+642599,Axew - 145/086,Axew 145 086,3,24325,2025-07-18 17:02:42,1,11,14.86,39.99,11.74,13.69,Holofoil,145/086,Illustration Rare,Dragon
+642600,Fraxure - 146/086,Fraxure 146 086,3,24325,2025-07-18 17:02:42,1,15.7,18.3,39.99,16.66,,Holofoil,146/086,Illustration Rare,Dragon
+642601,Haxorus - 147/086,Haxorus 147 086,3,24325,2025-07-18 17:02:42,1,38,44,99.99,39.5,39.5,Holofoil,147/086,Illustration Rare,Dragon
+642602,Pidove - 148/086,Pidove 148 086,3,24325,2025-07-18 17:02:43,1,12,15.77,39.99,14.29,16,Holofoil,148/086,Illustration Rare,Colorless
+642603,Tranquill - 149/086,Tranquill 149 086,3,24325,2025-07-18 17:02:43,1,4.24,6.23,19.99,5.63,,Holofoil,149/086,Illustration Rare,Colorless
+642604,Unfezant - 150/086,Unfezant 150 086,3,24325,2025-07-18 17:02:43,1,10,12,34.99,10.74,13.24,Holofoil,150/086,Illustration Rare,Colorless
+642605,Audino - 151/086,Audino 151 086,3,24325,2025-07-18 17:02:43,1,6.96,13.94,34.99,11.39,14.18,Holofoil,151/086,Illustration Rare,Colorless
+642606,Minccino - 152/086,Minccino 152 086,3,24325,2025-07-18 17:02:44,1,8.03,9.49,34.99,8.95,12.18,Holofoil,152/086,Illustration Rare,Colorless
+642607,Cinccino - 153/086,Cinccino 153 086,3,24325,2025-07-18 17:02:44,1,6.5,8.22,29.99,7.61,9.97,Holofoil,153/086,Illustration Rare,Colorless
+642608,Serperior ex - 156/086,Serperior ex 156 086,3,24325,2025-07-18 17:02:44,1,0.99,2,12.95,1.63,1.64,Holofoil,156/086,Secret Rare,Grass
+642609,Kyurem ex - 157/086,Kyurem ex 157 086,3,24325,2025-07-18 17:02:44,1,0.74,2,25,1.42,1.71,Holofoil,157/086,Secret Rare,Water
+642610,Zekrom ex - 158/086,Zekrom ex 158 086,3,24325,2025-07-18 17:02:45,1,5,8.58,39.95,6.84,7.17,Holofoil,158/086,Secret Rare,Lightning
+642611,Meloetta ex - 159/086,Meloetta ex 159 086,3,24325,2025-07-18 17:02:45,1,0.99,2.51,12.99,1.64,2,Holofoil,159/086,Secret Rare,Psychic
+642612,Excadrill ex - 160/086,Excadrill ex 160 086,3,24325,2025-07-18 17:02:45,1,0.31,1,12,0.71,0.71,Holofoil,160/086,Secret Rare,Fighting
+642613,Genesect ex - 161/086,Genesect ex 161 086,3,24325,2025-07-18 17:02:45,1,3.5,6.2,45,4.21,4.62,Holofoil,161/086,Secret Rare,Metal
+642614,N's Plan - 163/086,Ns Plan 163 086,3,24325,2025-07-21 12:24:14,1,4,6,28.69,4.62,5.11,Holofoil,163/086,Secret Rare,Trainer - Supporter
+642615,Fennel - 162/086,Fennel 162 086,3,24325,2025-07-18 17:02:46,1,1.5,2.5,12.99,2.44,1.99,Holofoil,162/086,Secret Rare,Trainer - Supporter
+642616,Serperior ex - 164/086,Serperior ex 164 086,3,24325,2025-07-18 17:02:46,1,40.99,49.62,200,44.41,48.99,Holofoil,164/086,Special Illustration Rare,Grass
+642617,Kyurem ex - 165/086,Kyurem ex 165 086,3,24325,2025-07-18 17:02:46,1,69.33,83.48,249.95,71.27,,Holofoil,165/086,Special Illustration Rare,Water
+642618,Zekrom ex - 166/086,Zekrom ex 166 086,3,24325,2025-07-18 17:02:46,1,202.99,230.7,499.99,206.63,,Holofoil,166/086,Special Illustration Rare,Lightning
+642619,Meloetta ex - 167/086,Meloetta ex 167 086,3,24325,2025-07-18 17:02:46,1,45,61,124.99,46.52,115.5,Holofoil,167/086,Special Illustration Rare,Psychic
+642620,Excadrill ex - 168/086,Excadrill ex 168 086,3,24325,2025-07-18 17:02:47,1,29.5,34.16,145,31.05,31.76,Holofoil,168/086,Special Illustration Rare,Fighting
+642621,Genesect ex - 169/086,Genesect ex 169 086,3,24325,2025-07-18 17:02:47,1,60.99,72.65,149.99,61.11,,Holofoil,169/086,Special Illustration Rare,Metal
+642622,N's Plan - 170/086,Ns Plan 170 086,3,24325,2025-07-18 17:02:47,1,60.77,69,160,61.29,,Holofoil,170/086,Special Illustration Rare,Trainer - Supporter
+642623,Zekrom ex - 172/086,Zekrom ex 172 086,3,24325,2025-07-18 17:02:47,1,400,442.84,1100,404.22,,Holofoil,172/086,Black White Rare,Lightning
+642624,Snivy (Master Ball Pattern),Snivy Master Ball Pattern,3,24325,2025-07-18 17:01:49,0,3,6.83,24.99,6.48,,Holofoil,001/086,Common,Grass
+642625,Servine (Master Ball Pattern),Servine Master Ball Pattern,3,24325,2025-07-18 17:01:49,0,6,9.53,29.99,9.05,7.5,Holofoil,002/086,Common,Grass
+642626,Pansage (Master Ball Pattern),Pansage Master Ball Pattern,3,24325,2025-07-18 17:01:50,0,2.22,4.44,17.99,4.36,6.59,Holofoil,004/086,Common,Grass
+642627,Simisage (Master Ball Pattern),Simisage Master Ball Pattern,3,24325,2025-07-18 17:01:50,0,1.81,3.07,24.99,1.53,,Holofoil,005/086,Uncommon,Grass
+642628,Petilil (Master Ball Pattern),Petilil Master Ball Pattern,3,24325,2025-07-18 17:01:51,0,2.69,3.86,14.99,3.51,,Holofoil,006/086,Common,Grass
+642629,Lilligant (Master Ball Pattern),Lilligant Master Ball Pattern,3,24325,2025-07-18 17:01:51,0,7.5,9.02,34.99,8.91,,Holofoil,007/086,Uncommon,Grass
+642630,Maractus (Master Ball Pattern),Maractus Master Ball Pattern,3,24325,2025-07-18 17:01:51,0,5.25,8.11,29.99,5.77,15.24,Holofoil,008/086,Common,Grass
+642631,Karrablast (Master Ball Pattern),Karrablast Master Ball Pattern,3,24325,2025-07-18 17:01:52,0,3,4.71,17.99,4.67,,Holofoil,009/086,Common,Grass
+642632,Foongus (Master Ball Pattern),Foongus Master Ball Pattern,3,24325,2025-07-18 17:01:52,0,1,2.33,30,2.26,,Holofoil,010/086,Common,Grass
+642633,Amoonguss (Master Ball Pattern),Amoonguss Master Ball Pattern,3,24325,2025-07-18 17:01:53,0,4.25,5.07,19.99,4.82,19.99,Holofoil,011/086,Uncommon,Grass
+642634,Victini (Master Ball Pattern),Victini Master Ball Pattern,3,24325,2025-07-18 17:01:53,0,17,22.05,59.99,22.01,,Holofoil,012/086,Rare,Fire
+642635,Darumaka (Master Ball Pattern),Darumaka Master Ball Pattern,3,24325,2025-07-18 17:01:54,0,1,1.9,19.99,1.31,19.99,Holofoil,013/086,Common,Fire
+642636,Darmanitan (Master Ball Pattern),Darmanitan Master Ball Pattern,3,24325,2025-07-18 17:01:54,0,9.46,11.69,34.99,10.47,,Holofoil,014/086,Uncommon,Fire
+642640,Larvesta (Master Ball Pattern),Larvesta Master Ball Pattern,3,24325,2025-07-18 17:01:55,0,4,6.07,22,5.78,5.78,Holofoil,015/086,Common,Fire
+642641,Volcarona (Master Ball Pattern),Volcarona Master Ball Pattern,3,24325,2025-07-18 17:01:55,0,6.9,9.34,29.99,8.12,,Holofoil,016/086,Rare,Fire
+642642,Panpour (Master Ball Pattern),Panpour Master Ball Pattern,3,24325,2025-07-18 17:01:55,0,1.2,2.94,19.95,2.79,,Holofoil,017/086,Common,Water
+642643,Simipour (Master Ball Pattern),Simipour Master Ball Pattern,3,24325,2025-07-18 17:01:56,0,3.4,4.01,37.5,3.81,,Holofoil,018/086,Uncommon,Water
+642644,Tympole (Master Ball Pattern),Tympole Master Ball Pattern,3,24325,2025-07-18 17:01:57,0,2.49,3.5,14.99,3.06,,Holofoil,019/086,Common,Water
+642645,Palpitoad (Master Ball Pattern),Palpitoad Master Ball Pattern,3,24325,2025-07-18 17:01:57,0,2.5,4.21,19.99,3.37,,Holofoil,020/086,Common,Water
+642646,Seismitoad (Master Ball Pattern),Seismitoad Master Ball Pattern,3,24325,2025-07-18 17:01:57,0,4,7.75,29.99,5.97,,Holofoil,021/086,Uncommon,Water
+642647,Tirtouga (Master Ball Pattern),Tirtouga Master Ball Pattern,3,24325,2025-07-18 17:01:58,0,9.49,12.75,39.99,12.49,11.99,Holofoil,022/086,Uncommon,Water
+642648,Carracosta (Master Ball Pattern),Carracosta Master Ball Pattern,3,24325,2025-07-18 17:01:58,0,3.5,5.33,17.99,4.07,,Holofoil,023/086,Rare,Water
+642649,Alomomola (Master Ball Pattern),Alomomola Master Ball Pattern,3,24325,2025-07-18 17:01:59,0,3.49,4.5,17.99,4.5,,Holofoil,024/086,Uncommon,Water
+642650,Cubchoo (Master Ball Pattern),Cubchoo Master Ball Pattern,3,24325,2025-07-18 17:01:59,0,2.5,3.62,14.99,3.13,4.21,Holofoil,025/086,Common,Water
+642651,Beartic (Master Ball Pattern),Beartic Master Ball Pattern,3,24325,2025-07-18 17:02:00,0,4,5.03,17.99,5.03,,Holofoil,026/086,Rare,Water
+642652,Cryogonal (Master Ball Pattern),Cryogonal Master Ball Pattern,3,24325,2025-07-18 17:02:01,0,2.5,3.83,17.99,3.7,,Holofoil,027/086,Uncommon,Water
+642653,Emolga (Master Ball Pattern),Emolga Master Ball Pattern,3,24325,2025-07-18 17:02:02,0,3.99,8.16,29.99,6.97,,Holofoil,029/086,Common,Lightning
+642654,Tynamo (Master Ball Pattern),Tynamo Master Ball Pattern,3,24325,2025-07-18 17:02:02,0,3,3.51,19.99,3.38,4.25,Holofoil,030/086,Common,Lightning
+642655,Eelektrik (Master Ball Pattern),Eelektrik Master Ball Pattern,3,24325,2025-07-18 17:02:03,0,8.83,10.65,34.99,9.82,,Holofoil,031/086,Uncommon,Lightning
+642656,Eelektross (Master Ball Pattern),Eelektross Master Ball Pattern,3,24325,2025-07-18 17:02:03,0,4.25,5.48,25,5.35,,Holofoil,032/086,Uncommon,Lightning
+642657,Thundurus (Master Ball Pattern),Thundurus Master Ball Pattern,3,24325,2025-07-18 17:02:03,0,4,6.52,24.99,5.43,,Holofoil,033/086,Rare,Lightning
+642658,Munna (Master Ball Pattern),Munna Master Ball Pattern,3,24325,2025-07-18 17:02:04,0,2,2.6,15,2.58,,Holofoil,035/086,Common,Psychic
+642659,Musharna (Master Ball Pattern),Musharna Master Ball Pattern,3,24325,2025-07-18 17:02:05,0,6.5,8.02,29.99,7.68,,Holofoil,036/086,Uncommon,Psychic
+642660,Solosis (Master Ball Pattern),Solosis Master Ball Pattern,3,24325,2025-07-18 17:02:05,0,2.4,3.49,14.99,3.31,,Holofoil,037/086,Common,Psychic
+642661,Duosion (Master Ball Pattern),Duosion Master Ball Pattern,3,24325,2025-07-18 17:02:06,0,4.5,6.59,24.99,6.13,,Holofoil,038/086,Common,Psychic
+642662,Reuniclus (Master Ball Pattern),Reuniclus Master Ball Pattern,3,24325,2025-07-18 17:02:06,0,5.91,7.05,29.99,6.9,,Holofoil,039/086,Uncommon,Psychic
+642663,Elgyem (Master Ball Pattern),Elgyem Master Ball Pattern,3,24325,2025-07-18 17:02:07,0,2.8,3.99,24.95,3.6,3.99,Holofoil,040/086,Common,Psychic
+642664,Beheeyem (Master Ball Pattern),Beheeyem Master Ball Pattern,3,24325,2025-07-18 17:02:07,0,7.5,8.77,29.99,7.99,,Holofoil,041/086,Uncommon,Psychic
+642665,Golett (Master Ball Pattern),Golett Master Ball Pattern,3,24325,2025-07-18 17:02:07,0,1,3,24.95,2.27,,Holofoil,042/086,Common,Psychic
+642666,Golurk (Master Ball Pattern),Golurk Master Ball Pattern,3,24325,2025-07-18 19:00:47,0,6.5,8.13,29.99,7.65,,Holofoil,043/086,Uncommon,Psychic
+642667,Drilbur (Master Ball Pattern),Drilbur Master Ball Pattern,3,24325,2025-07-18 17:02:09,0,2.99,6.25,24.99,6.13,,Holofoil,045/086,Common,Fighting
+642668,Timburr (Master Ball Pattern),Timburr Master Ball Pattern,3,24325,2025-07-18 17:02:09,0,3.99,4.23,24.99,4.39,19.99,Holofoil,047/086,Common,Fighting
+642669,Gurdurr (Master Ball Pattern),Gurdurr Master Ball Pattern,3,24325,2025-07-18 17:02:10,0,1.99,3.01,12.99,2.95,,Holofoil,048/086,Common,Fighting
+642670,Conkeldurr (Master Ball Pattern),Conkeldurr Master Ball Pattern,3,24325,2025-07-18 17:02:11,0,3.3,4.25,17.99,3.36,,Holofoil,049/086,Rare,Fighting
+642671,Throh (Master Ball Pattern),Throh Master Ball Pattern,3,24325,2025-07-18 17:02:12,0,4.96,6.2,34.99,5.91,,Holofoil,050/086,Uncommon,Fighting
+642672,Dwebble (Master Ball Pattern),Dwebble Master Ball Pattern,3,24325,2025-07-18 17:02:12,0,1,2.17,19.95,1.66,,Holofoil,051/086,Common,Fighting
+642673,Crustle (Master Ball Pattern),Crustle Master Ball Pattern,3,24325,2025-07-18 17:02:13,0,9.99,15,40,14.66,,Holofoil,052/086,Uncommon,Fighting
+642674,Landorus (Master Ball Pattern),Landorus Master Ball Pattern,3,24325,2025-07-18 17:02:14,0,3.75,4.81,24.99,4.84,,Holofoil,053/086,Rare,Fighting
+642675,Venipede (Master Ball Pattern),Venipede Master Ball Pattern,3,24325,2025-07-18 17:02:14,0,1.99,2.6,12.99,2.37,,Holofoil,054/086,Common,Darkness
+642676,Whirlipede (Master Ball Pattern),Whirlipede Master Ball Pattern,3,24325,2025-07-18 17:02:15,0,5,7.44,29.99,6.95,8.24,Holofoil,055/086,Common,Darkness
+642677,Scolipede (Master Ball Pattern),Scolipede Master Ball Pattern,3,24325,2025-07-18 17:02:16,0,3.96,5.45,24.99,5.17,,Holofoil,056/086,Uncommon,Darkness
+642678,Sandile (Master Ball Pattern),Sandile Master Ball Pattern,3,24325,2025-07-18 17:02:16,0,2.85,3.89,19.95,3.69,5.55,Holofoil,057/086,Common,Darkness
+642679,Krokorok (Master Ball Pattern),Krokorok Master Ball Pattern,3,24325,2025-07-18 17:02:17,0,5.99,9,29.99,7.54,,Holofoil,058/086,Common,Darkness
+642680,Krookodile (Master Ball Pattern),Krookodile Master Ball Pattern,3,24325,2025-07-18 17:02:17,0,3.5,5.88,31.31,4.88,,Holofoil,059/086,Uncommon,Darkness
+642683,Escavalier (Master Ball Pattern),Escavalier Master Ball Pattern,3,24325,2025-07-18 17:02:18,0,3.49,5,17.99,3.6,,Holofoil,060/086,Common,Metal
+642684,Pawniard (Master Ball Pattern),Pawniard Master Ball Pattern,3,24325,2025-07-18 17:02:20,0,1.82,2.77,12.99,2.69,,Holofoil,064/086,Common,Metal
+642685,Bisharp (Master Ball Pattern),Bisharp Master Ball Pattern,3,24325,2025-07-18 17:02:21,0,3.99,6,34.99,5.63,,Holofoil,065/086,Uncommon,Metal
+642686,Cobalion (Master Ball Pattern),Cobalion Master Ball Pattern,3,24325,2025-07-18 17:02:21,0,1.25,2.44,17.99,1.95,,Holofoil,066/086,Rare,Metal
+642687,Axew (Master Ball Pattern),Axew Master Ball Pattern,3,24325,2025-07-18 17:02:22,0,1,3.49,35.68,1.76,,Holofoil,068/086,Common,Dragon
+642688,Fraxure (Master Ball Pattern),Fraxure Master Ball Pattern,3,24325,2025-07-18 17:02:22,0,3.4,4.56,17.99,4.46,,Holofoil,069/086,Common,Dragon
+642689,Haxorus (Master Ball Pattern),Haxorus Master Ball Pattern,3,24325,2025-07-18 17:02:23,0,1.81,5.1,29.99,4.47,,Holofoil,070/086,Rare,Dragon
+642690,Pidove (Master Ball Pattern),Pidove Master Ball Pattern,3,24325,2025-07-18 17:02:23,0,1,1.55,19.99,1.32,19.99,Holofoil,071/086,Common,Colorless
+642691,Tranquill (Master Ball Pattern),Tranquill Master Ball Pattern,3,24325,2025-07-18 17:02:24,0,1.81,2.89,12.99,2.73,,Holofoil,072/086,Common,Colorless
+642692,Unfezant (Master Ball Pattern),Unfezant Master Ball Pattern,3,24325,2025-07-18 17:02:25,0,3.99,6,17.99,4.59,5.6,Holofoil,073/086,Uncommon,Colorless
+642693,Audino (Master Ball Pattern),Audino Master Ball Pattern,3,24325,2025-07-18 17:02:25,0,6.93,7.99,24.99,7.76,8,Holofoil,074/086,Common,Colorless
+642694,Minccino (Master Ball Pattern),Minccino Master Ball Pattern,3,24325,2025-07-18 17:02:26,0,1.75,3.25,14.99,2.71,,Holofoil,075/086,Common,Colorless
+642695,Cinccino (Master Ball Pattern),Cinccino Master Ball Pattern,3,24325,2025-07-18 17:02:27,0,8,10,34.99,9.45,10.95,Holofoil,076/086,Uncommon,Colorless
+642696,Snivy (Poke Ball Pattern),Snivy Poke Ball Pattern,3,24325,2025-07-18 17:01:49,0,0.01,1.5,9.99,1.28,1.29,Holofoil,001/086,Common,Grass
+642697,Servine (Poke Ball Pattern),Servine Poke Ball Pattern,3,24325,2025-07-18 17:01:49,0,0.5,0.95,5.95,0.77,0.77,Holofoil,002/086,Common,Grass
+642698,Pansage (Poke Ball Pattern),Pansage Poke Ball Pattern,3,24325,2025-07-18 17:01:50,0,0.22,0.5,6.95,0.47,0.37,Holofoil,004/086,Common,Grass
+642699,Simisage (Poke Ball Pattern),Simisage Poke Ball Pattern,3,24325,2025-07-18 17:01:50,0,0.3,0.53,4.99,0.46,,Holofoil,005/086,Uncommon,Grass
+642700,Petilil (Poke Ball Pattern),Petilil Poke Ball Pattern,3,24325,2025-07-18 17:01:51,0,0.01,0.5,5.95,0.34,0.31,Holofoil,006/086,Common,Grass
+642701,Lilligant (Poke Ball Pattern),Lilligant Poke Ball Pattern,3,24325,2025-07-18 17:01:51,0,0.23,0.65,4.99,0.5,,Holofoil,007/086,Uncommon,Grass
+642702,Maractus (Poke Ball Pattern),Maractus Poke Ball Pattern,3,24325,2025-07-18 17:01:52,0,0.7,1,7.99,0.9,1.04,Holofoil,008/086,Common,Grass
+642703,Karrablast (Poke Ball Pattern),Karrablast Poke Ball Pattern,3,24325,2025-07-18 17:01:52,0,0.15,0.41,4.99,0.33,0.33,Holofoil,009/086,Common,Grass
+642704,Foongus (Poke Ball Pattern),Foongus Poke Ball Pattern,3,24325,2025-07-18 17:01:52,0,0.55,0.96,6.95,0.87,,Holofoil,010/086,Common,Grass
+642705,Amoonguss (Poke Ball Pattern),Amoonguss Poke Ball Pattern,3,24325,2025-07-18 17:01:53,0,0.28,0.7,4.99,0.59,0.65,Holofoil,011/086,Uncommon,Grass
+642706,Victini (Poke Ball Pattern),Victini Poke Ball Pattern,3,24325,2025-07-18 17:01:53,0,0.01,0.49,7.99,0.21,,Holofoil,012/086,Rare,Fire
+642707,Darumaka (Poke Ball Pattern),Darumaka Poke Ball Pattern,3,24325,2025-07-18 17:01:54,0,0.08,0.34,4.99,0.28,0.25,Holofoil,013/086,Common,Fire
+642708,Darmanitan (Poke Ball Pattern),Darmanitan Poke Ball Pattern,3,24325,2025-07-18 17:01:54,0,0.45,0.74,7.95,0.64,0.68,Holofoil,014/086,Uncommon,Fire
+642712,Larvesta (Poke Ball Pattern),Larvesta Poke Ball Pattern,3,24325,2025-07-18 17:01:55,0,0.12,0.47,4.99,0.42,0.4,Holofoil,015/086,Common,Fire
+642713,Volcarona (Poke Ball Pattern),Volcarona Poke Ball Pattern,3,24325,2025-07-18 17:01:55,0,0.44,0.97,10.93,0.95,,Holofoil,016/086,Rare,Fire
+642714,Panpour (Poke Ball Pattern),Panpour Poke Ball Pattern,3,24325,2025-07-18 17:01:56,0,0.01,0.41,4.99,0.3,,Holofoil,017/086,Common,Water
+642715,Simipour (Poke Ball Pattern),Simipour Poke Ball Pattern,3,24325,2025-07-18 17:01:56,0,0.35,0.82,5.5,0.71,0.64,Holofoil,018/086,Uncommon,Water
+642716,Tympole (Poke Ball Pattern),Tympole Poke Ball Pattern,3,24325,2025-07-18 17:01:57,0,0.24,0.37,4.99,0.32,0.31,Holofoil,019/086,Common,Water
+642717,Palpitoad (Poke Ball Pattern),Palpitoad Poke Ball Pattern,3,24325,2025-07-18 17:01:57,0,0.24,0.5,4.99,0.43,,Holofoil,020/086,Common,Water
+642718,Seismitoad (Poke Ball Pattern),Seismitoad Poke Ball Pattern,3,24325,2025-07-18 17:01:58,0,0.5,1.19,7.99,1.06,0.5,Holofoil,021/086,Uncommon,Water
+642719,Tirtouga (Poke Ball Pattern),Tirtouga Poke Ball Pattern,3,24325,2025-07-18 17:01:58,0,0.33,0.7,4.99,0.68,,Holofoil,022/086,Uncommon,Water
+642720,Carracosta (Poke Ball Pattern),Carracosta Poke Ball Pattern,3,24325,2025-07-18 17:01:59,0,0.25,0.54,4.99,0.45,0.54,Holofoil,023/086,Rare,Water
+642721,Alomomola (Poke Ball Pattern),Alomomola Poke Ball Pattern,3,24325,2025-07-18 17:01:59,0,0.5,0.91,11,1.03,0.93,Holofoil,024/086,Uncommon,Water
+642722,Cubchoo (Poke Ball Pattern),Cubchoo Poke Ball Pattern,3,24325,2025-07-18 17:02:00,0,0.02,0.32,4.99,0.24,,Holofoil,025/086,Common,Water
+642723,Beartic (Poke Ball Pattern),Beartic Poke Ball Pattern,3,24325,2025-07-18 17:02:00,0,0.67,1.1,25,0.99,0.9,Holofoil,026/086,Rare,Water
+642724,Cryogonal (Poke Ball Pattern),Cryogonal Poke Ball Pattern,3,24325,2025-07-18 17:02:01,0,0.1,0.53,4.99,0.5,0.48,Holofoil,027/086,Uncommon,Water
+642726,Emolga (Poke Ball Pattern),Emolga Poke Ball Pattern,3,24325,2025-07-18 17:02:02,0,0.35,0.56,10,0.56,0.56,Holofoil,029/086,Common,Lightning
+642727,Tynamo (Poke Ball Pattern),Tynamo Poke Ball Pattern,3,24325,2025-07-18 17:02:02,0,0.44,0.69,7.95,0.61,,Holofoil,030/086,Common,Lightning
+642728,Eelektrik (Poke Ball Pattern),Eelektrik Poke Ball Pattern,3,24325,2025-07-18 17:02:03,0,2,2.98,12.99,2.72,,Holofoil,031/086,Uncommon,Lightning
+642729,Eelektross (Poke Ball Pattern),Eelektross Poke Ball Pattern,3,24325,2025-07-18 17:02:03,0,0.3,0.71,4.99,0.57,0.61,Holofoil,032/086,Uncommon,Lightning
+642730,Thundurus (Poke Ball Pattern),Thundurus Poke Ball Pattern,3,24325,2025-07-18 17:02:04,0,0.76,1.49,9.99,1.23,1.25,Holofoil,033/086,Rare,Lightning
+642731,Munna (Poke Ball Pattern),Munna Poke Ball Pattern,3,24325,2025-07-18 17:02:04,0,0.19,0.42,4.99,0.27,0.32,Holofoil,035/086,Common,Psychic
+642732,Musharna (Poke Ball Pattern),Musharna Poke Ball Pattern,3,24325,2025-07-18 17:02:05,0,0.2,0.78,19.99,0.71,1,Holofoil,036/086,Uncommon,Psychic
+642733,Solosis (Poke Ball Pattern),Solosis Poke Ball Pattern,3,24325,2025-07-18 17:02:05,0,0.01,0.32,5.95,0.28,0.25,Holofoil,037/086,Common,Psychic
+642734,Duosion (Poke Ball Pattern),Duosion Poke Ball Pattern,3,24325,2025-07-18 17:02:06,0,0.33,0.67,10,0.66,0.99,Holofoil,038/086,Common,Psychic
+642735,Reuniclus (Poke Ball Pattern),Reuniclus Poke Ball Pattern,3,24325,2025-07-18 17:02:06,0,0.5,1,7.99,0.9,0.99,Holofoil,039/086,Uncommon,Psychic
+642736,Elgyem (Poke Ball Pattern),Elgyem Poke Ball Pattern,3,24325,2025-07-18 17:02:07,0,0.1,0.4,6.95,0.36,0.32,Holofoil,040/086,Common,Psychic
+642737,Beheeyem (Poke Ball Pattern),Beheeyem Poke Ball Pattern,3,24325,2025-07-18 17:02:07,0,0.43,0.83,4.99,0.84,1.2,Holofoil,041/086,Uncommon,Psychic
+642738,Golett (Poke Ball Pattern),Golett Poke Ball Pattern,3,24325,2025-07-18 17:02:08,0,0.01,0.36,4.99,0.29,0.26,Holofoil,042/086,Common,Psychic
+642739,Golurk (Poke Ball Pattern),Golurk Poke Ball Pattern,3,24325,2025-07-18 19:00:51,0,0.14,0.62,4.99,0.55,0.58,Holofoil,043/086,Uncommon,Psychic
+642740,Drilbur (Poke Ball Pattern),Drilbur Poke Ball Pattern,3,24325,2025-07-18 17:02:09,0,0.15,0.31,5.95,0.27,0.26,Holofoil,045/086,Common,Fighting
+642741,Timburr (Poke Ball Pattern),Timburr Poke Ball Pattern,3,24325,2025-07-18 17:02:10,0,0.17,0.42,4.99,0.35,0.33,Holofoil,047/086,Common,Fighting
+642742,Gurdurr (Poke Ball Pattern),Gurdurr Poke Ball Pattern,3,24325,2025-07-18 17:02:10,0,0.25,0.46,5.95,0.43,,Holofoil,048/086,Common,Fighting
+642743,Conkeldurr (Poke Ball Pattern),Conkeldurr Poke Ball Pattern,3,24325,2025-07-18 17:02:11,0,0.25,0.53,4.99,0.51,0.79,Holofoil,049/086,Rare,Fighting
+642744,Throh (Poke Ball Pattern),Throh Poke Ball Pattern,3,24325,2025-07-18 17:02:12,0,0.5,0.79,4.99,0.66,,Holofoil,050/086,Uncommon,Fighting
+642745,Dwebble (Poke Ball Pattern),Dwebble Poke Ball Pattern,3,24325,2025-07-18 17:02:13,0,0.15,0.4,5.95,0.29,0.29,Holofoil,051/086,Common,Fighting
+642746,Crustle (Poke Ball Pattern),Crustle Poke Ball Pattern,3,24325,2025-07-18 17:02:13,0,0.3,0.51,4.99,0.5,,Holofoil,052/086,Uncommon,Fighting
+642747,Landorus (Poke Ball Pattern),Landorus Poke Ball Pattern,3,24325,2025-07-18 17:02:14,0,0.25,0.54,10.95,0.49,,Holofoil,053/086,Rare,Fighting
+642748,Venipede (Poke Ball Pattern),Venipede Poke Ball Pattern,3,24325,2025-07-18 17:02:15,0,0.24,0.79,6.95,0.73,0.66,Holofoil,054/086,Common,Darkness
+642749,Whirlipede (Poke Ball Pattern),Whirlipede Poke Ball Pattern,3,24325,2025-07-18 17:02:15,0,0.35,0.63,5.95,0.56,,Holofoil,055/086,Common,Darkness
+642750,Scolipede (Poke Ball Pattern),Scolipede Poke Ball Pattern,3,24325,2025-07-18 17:02:16,0,0.48,0.7,4.99,0.65,0.58,Holofoil,056/086,Uncommon,Darkness
+642751,Sandile (Poke Ball Pattern),Sandile Poke Ball Pattern,3,24325,2025-07-18 17:02:16,0,0.66,0.87,9.95,0.87,,Holofoil,057/086,Common,Darkness
+642752,Krokorok (Poke Ball Pattern),Krokorok Poke Ball Pattern,3,24325,2025-07-18 17:02:17,0,0.44,1.09,7.99,0.99,0.89,Holofoil,058/086,Common,Darkness
+642753,Krookodile (Poke Ball Pattern),Krookodile Poke Ball Pattern,3,24325,2025-07-18 17:02:18,0,0.69,1.2,19.99,1,1.25,Holofoil,059/086,Uncommon,Darkness
+642756,Escavalier (Poke Ball Pattern),Escavalier Poke Ball Pattern,3,24325,2025-07-18 17:02:18,0,0.44,0.63,4.99,0.6,0.49,Holofoil,060/086,Common,Metal
+642757,Pawniard (Poke Ball Pattern),Pawniard Poke Ball Pattern,3,24325,2025-07-18 17:02:20,0,0.18,0.45,4.99,0.34,0.31,Holofoil,064/086,Common,Metal
+642758,Bisharp (Poke Ball Pattern),Bisharp Poke Ball Pattern,3,24325,2025-07-18 17:02:21,0,0.4,0.66,19.99,0.63,0.57,Holofoil,065/086,Uncommon,Metal
+642759,Cobalion (Poke Ball Pattern),Cobalion Poke Ball Pattern,3,24325,2025-07-18 17:02:21,0,0.25,1.09,7.99,1,1,Holofoil,066/086,Rare,Metal
+642760,Axew (Poke Ball Pattern),Axew Poke Ball Pattern,3,24325,2025-07-18 17:02:22,0,0.08,0.61,5,0.42,0.45,Holofoil,068/086,Common,Dragon
+642761,Fraxure (Poke Ball Pattern),Fraxure Poke Ball Pattern,3,24325,2025-07-18 17:02:22,0,0.5,0.93,7.99,0.68,,Holofoil,069/086,Common,Dragon
+642762,Haxorus (Poke Ball Pattern),Haxorus Poke Ball Pattern,3,24325,2025-07-18 17:02:23,0,0.29,0.64,4.99,0.6,,Holofoil,070/086,Rare,Dragon
+642763,Pidove (Poke Ball Pattern),Pidove Poke Ball Pattern,3,24325,2025-07-18 17:02:23,0,0.18,0.47,4.99,0.36,0.33,Holofoil,071/086,Common,Colorless
+642764,Tranquill (Poke Ball Pattern),Tranquill Poke Ball Pattern,3,24325,2025-07-18 17:02:24,0,0.15,0.58,4.99,0.54,0.67,Holofoil,072/086,Common,Colorless
+642765,Unfezant (Poke Ball Pattern),Unfezant Poke Ball Pattern,3,24325,2025-07-18 17:02:25,0,0.75,1,7.99,0.93,0.93,Holofoil,073/086,Uncommon,Colorless
+642766,Audino (Poke Ball Pattern),Audino Poke Ball Pattern,3,24325,2025-07-18 17:02:25,0,0.55,0.88,4.99,0.78,0.98,Holofoil,074/086,Common,Colorless
+642767,Minccino (Poke Ball Pattern),Minccino Poke Ball Pattern,3,24325,2025-07-18 17:02:26,0,0.2,0.49,5.95,0.42,0.38,Holofoil,075/086,Common,Colorless
+642768,Cinccino (Poke Ball Pattern),Cinccino Poke Ball Pattern,3,24325,2025-07-18 17:02:27,0,0.4,0.7,5.95,0.67,0.6,Holofoil,076/086,Uncommon,Colorless
+642769,Prism Energy (Poke Ball Pattern),Prism Energy Poke Ball Pattern,3,24325,2025-07-18 17:02:30,0,2.31,4.08,17.99,3.52,4.36,Holofoil,086/086,Uncommon,Special Rainbow Energy
+642770,Energy Coin (Poke Ball Pattern),Energy Coin Poke Ball Pattern,3,24325,2025-07-18 17:02:29,0,0.23,0.44,6.99,0.4,0.99,Holofoil,081/086,Uncommon,Trainer - Item
+642771,Air Balloon (Poke Ball Pattern),Air Balloon Poke Ball Pattern,3,24325,2025-07-18 17:02:28,0,3.73,5.15,29.99,4.66,,Holofoil,079/086,Uncommon,Trainer - Item
+642772,Professor's Research (Poke Ball Pattern),Professors Research Poke Ball Pattern,3,24325,2025-07-21 16:15:55,0,0.34,0.71,4.99,0.68,0.7,Holofoil,085/086,Uncommon,Trainer - Supporter
+644830,Pokegear 3.0 (Poke Ball Pattern),Pokegear 30 Poke Ball Pattern,3,24325,2025-07-21 11:56:50,0,2,2.99,14.99,2.57,,Holofoil,084/086,Uncommon,Trainer - Item
+644841,Code Card - Black Bolt Elite Trainer Box,Code Card Black Bolt Elite Trainer Box,3,24325,2025-07-21 13:28:52,1,0.08,0.18,0.59,0.18,,Normal,,Code Card,
+644842,Code Card - Black Bolt Pokemon Center Elite Trainer Box (Exclusive),Code Card Black Bolt Pokemon Center Elite Trainer Box Exclusive,3,24325,2025-07-21 13:29:55,1,1.49,1.75,4.99,,,Normal,,Code Card,
+644843,Code Card - Black Bolt Tech Sticker Collection,Code Card Black Bolt Tech Sticker Collection,3,24325,2025-07-21 13:30:17,1,0.03,0.05,0.5,0.05,,Normal,,Code Card,
+644844,Code Card - Unova Poster Collection,Code Card Unova Poster Collection,3,24325,2025-07-21 13:31:13,1,0.02,0.1,0.25,0.1,,Normal,,Code Card,
+644845,Code Card - Unova Victini Illustration Collection,Code Card Unova Victini Illustration Collection,3,24325,2025-08-08 14:37:02,1,0.07,0.25,2,,,Normal,,Code Card,
+644864,Antique Cover Fossil (Poke Ball Pattern),Antique Cover Fossil Poke Ball Pattern,3,24325,2025-07-21 16:08:59,0,0.73,1,85,0.97,,Holofoil,080/086,Common,Trainer - Item
+644866,Fennel (Poke Ball Pattern),Fennel Poke Ball Pattern,3,24325,2025-07-21 16:10:41,0,1,3,14.99,2.84,,Holofoil,082/086,Uncommon,Trainer - Supporter
+644869,N's Plan (Poke Ball Pattern),Ns Plan Poke Ball Pattern,3,24325,2025-07-21 16:14:02,0,0.99,1.96,9.99,1.63,,Holofoil,083/086,Uncommon,Trainer - Supporter
+646128,Code Card - Black Bolt Booster Pack,Code Card Black Bolt Booster Pack,3,24325,2025-07-24 15:46:33,1,0.01,0.06,0.69,0.05,,Normal,,Code Card,
+646306,Klingklang (Poke Ball Pattern),Klingklang Poke Ball Pattern,3,24325,2025-07-25 18:36:13,0,1,2.62,499,2.39,,Holofoil,063/086,Holo Rare,
+646307,Klingklang (Master Ball Pattern),Klingklang Master Ball Pattern,3,24325,2025-07-25 18:36:23,0,4,7.99,29.99,6.04,,Holofoil,063/086,Holo Rare,
+649220,Unova Victini Illustration Collection Case,Unova Victini Illustration Collection Case,3,24325,2025-08-14 13:35:29,0,235,242.5,249.99,,,Normal,,,
